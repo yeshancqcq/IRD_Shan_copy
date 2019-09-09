@@ -1,0 +1,408 @@
+---
+title: "Finding Ice-Rafted Debris Site Locations over the Pliocene with GeoDeepDive"
+author: "Jeremiah Marsicek and Simon Goring"
+output:
+  html_document:
+    code_folding: show
+    highlight: pygment
+    keep_md: yes
+    number_sections: no
+  pdf_document:
+    latex_engine: xelatex
+always_allow_html: yes
+---
+
+
+<style>
+      @import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+      @import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+      body {
+        font-family: 'Droid Serif', serif;
+      }
+      h1 {
+        font-family: 'Roboto';
+        font-weight: 500;
+        line-height: 1.1;
+        color: #48ca3b;
+      }
+      h2 {
+        font-family: 'Roboto';
+        font-weight: 300;
+        line-height: 1;
+        color: #48ca3b;
+      }
+</style>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning = FALSE)
+```
+
+## Ice-rafted debris in the Pliocene
+
+GeoDeepDive (GDD) mines publications using OCR and then applies several Natural Language Processing (NLP) utilities to the documents (a description of GDD output was written by @SimonGoring and can be found at http://www.goring.org/empty-spaces/empty-spaces.html). Our goal is to mine papers that contain ice-rafted debris (IRD) data over the Pliocene, determine whether those publications contain actual IRD data and locations, mine the coordinates, and plot the global distribution of IRD events over the last 5.3 million years (and perhaps their source material). This will be important for understanding X, Y, and Z.   
+
+To begin, we want to load the packages we will be using, and then import the data:
+
+```{r load_data, message=FALSE, warning = FALSE}
+
+devtools::install_github('EarthCubeGeochron/geodiveR')
+
+library(geodiveR)
+
+library(jsonlite)
+library(readr)
+library(dplyr)
+library(stringr)
+library(leaflet)
+library(purrr)
+library(DT)
+library(assertthat)
+library(data.table)
+
+sourcing <- list.files('R', full.names = TRUE) %>% 
+  map(source, echo = FALSE, print = FALSE, verbose = FALSE)
+
+publications_test <- fromJSON(txt = 'input/bibjson', flatten = TRUE)
+full_nlp_test <- readr::read_tsv('input/sentences_nlp352', 
+                       trim_ws = TRUE,
+                       col_names = c('_gddid', 'sentence', 'wordIndex', 
+                                     'word', 'partofspeech', 'specialclass', 
+                                     'wordsAgain', 'wordtype', 'wordmodified'))
+
+nlp_clean_test <- clean_corpus(x = full_nlp_test, pubs = publications) #uses the clean_corpus.R function
+
+nlp_test<-nlp_clean_test$nlp
+
+nlp_group_by_artical <- nlp_test
+
+test_group <- nlp_test
+
+names(test_group)[names(test_group) == '_gddid'] <- 'gddid'
+
+test_group[, paste(wordIndex), by = gddid]
+aggregate(word ~ gddid, test_group, c)
+aggregate(.~gddid, test_group, paste, collapse = ",")
+```
+
+From this we get an output object that includes a key for the publication (`_gddid`, linking to the `publications` variable), the sentence number of the parsed text, and then both the parsed text and some results from natural language processing. We also get a list of gddids to keep or drop given the regular expressions we used to find instances of IRD in the affiliations or references sections of the papers. This leaves us with 82 documents:
+
+```{r warning=FALSE, echo = FALSE}
+
+short_table_test <- nlp_test  %>% 
+  filter(1:nrow(nlp) %in% 1) %>%
+  str_replace('-LRB-', '(') %>% 
+  str_replace('-RRB-', ')') %>% 
+  as.data.frame(stringsAsFactors = FALSE)
+
+rownames(short_table_test) <- colnames(nlp_clean_test)
+colnames(short_table_test) <- 'value'
+
+short_table_test[nchar(short_table_test[,1])>40,1] <-
+  paste0(substr(short_table_test[nchar(short_table_test[,1])>40, 1], 1, 30), ' . . .')
+
+short_table_test %>% datatable()
+```
+
+We're interested in trying to use GDD to obtain site coordinates for sites that contain IRD data over the last 5 million years.  This would help researchers searching for relevant sites for use in meta-analysis, or in comparing their results to results in similar geographic locations by providing relevant geocoded publications and links to the publications using DOIs. 
+
+
+## Getting Coordinates
+
+To obtain coordinates from the paper we must consider that there are several potential issues.  The first is that not all coordinates will neccessarily refer to an actual ocean core.  We may also, inadvertantly, find numeric objects that appear to be coordinates, but are in fact simply numbers.  We then must identify what exactly we think coordinates might look like:
+
+| Longitudes     |  Latitudes     | Matches |
+| -----------    | -----------    | ------ |
+| 45°56' W       | 45°56'N        |   |
+| 45◦56 W        | 45◦56'N      |   |
+| -45°56' E        | -12°23'12" N |   |
+| 123.5° E       | 43ø30`N      |   |
+|  37º34.284´E |  66◦18.8S    |   |
+| 52.5°N       |  52.5°N        |   |
+| 68,300e69,400N | - gives a range |   |
+
+From this we can compose two regular expressions.  Since we will be processing DMS coordinates differently than DD coordinates we generate two regular expressions.
+
+We also process dates:
+
+```{r}
+dms_regex_test <- "[\\{,]([-]?[1]?[0-9]{1,2}?)(?:(?:,[°◦o],)|(?:[O])|(?:,`{2},))([1]?[0-9]{1,2}(?:.[0-9]*)),[′'`]?[,]?([[0-9]{0,2}]?)[\"]?[,]?([NESWnesw]?),"
+#dms_regex <- "[\\{,]([-]?[1]?[0-9]{1,2}?)(?:(?:,[°◦oºø],)|(?:[O])|(?:,`{2},))([1]?[0-9]{1,3}(?:.[0-9]*)),[´′'`]?[,]?([[0-9]{0,2}]?)[\"]?[,]?([NESWnesw]?),"
+
+ dd_regex_test <- "[\\{,][-]?[1]?[0-9]{1,2}\\.[0-9]{1,}[,]?[NESWnesw],"
+#dd_regex <- "[\\{,][-]?[1]?[0-9]{1,2}\\.[0-9]{1,}[,]?[NESWnesw],"
+ 
+#extract dates below
+is_date_test <- str_detect(full_nlp_test$word, "BP")
+
+#full_nlp_test$word[is_date_test&ird_word][4]
+
+date_range_test <- str_detect(full_nlp_test$word, 
+                         "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),")
+
+date_match_test <- str_match(full_nlp_test$word, 
+                         "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),") %>% na.omit()
+
+date_match_test2 <- str_extract(full_nlp_test$word, 
+                         "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),") %>% na.omit()
+
+number_test <- str_detect(full_nlp_test$word, 
+                         ",(\\d+(?:[\\.\\s]\\d+){0,1}),.*?,yr,")
+
+number_match_test <- str_match(full_nlp_test$word, ",(\\d+(?:[\\.\\s]\\d+){0,1}),.*?,yr,")%>% na.omit()
+
+number_match_test2 <- str_match(full_nlp_test$word, ",(\\d+(?:[\\.\\s]\\d+){0,1}),yr,")%>% na.omit()
+
+number_test2 <- str_detect(full_nlp_test$word, 
+                         ",(\\d+(?:[\\.\\s]\\d+){0,1}),yr,")
+
+date_range_regex_test <- "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),"
+
+date_regex_test <- ",(\\d+(?:[\\.\\s]\\d+){0,1}),.*?,yr,"
+
+```
+
+These regular expressions allow for negative or positive coordinate systems, that may start with a `1`, and then are followed by one or two digits (`{1,2}`).  From there we see differences in the structure, reflecting the need to capture the degree symbols, or, in the case of decimal degrees, the decimal component of the coordinates.  We are more rigorous here for the decimal degrees because there are too many other options when there are only decimal numbers.
+
+The regex commands were constructed using capture (and non-capture) groups to work with the `stringr` package, so that we obtain five elements from any match.  The full match, the degrees, the minutes and the seconds (which may be an empty string).  It also returns the quadrant (NESW).
+
+```{r}
+degmin_test <- str_match_all(nlp_test$word, dms_regex_test)
+decdeg_test <- str_match_all(nlp_test$word, dd_regex_test)
+date_test <- str_match_all(nlp_test$word, date_regex_test)
+date_range_test <- str_match_all(nlp_test$word, date_range_regex_test)
+```
+
+Since the documents are broken up into sentences we should expect that all coordinates are reported as pairs, and so we might be most interested in finding all the records that show up with pairs of coordinates.  Let's start by matching up the publications with sentences that have coordinate pairs:
+
+```{r, echo = FALSE}
+
+coord_pairs_test <- sapply(degmin_test, function(x)length(x) %% 2 == 0 & length(x) > 0) |
+  sapply(decdeg_test, function(x)length(x) %% 2 == 0 & length(x) > 0)
+
+
+things <- nlp_test %>% 
+  filter(coord_pairs_test & age_test) %>% 
+  inner_join(publications_test, by = "_gddid") %>% 
+  select(`_gddid`, word, year, title) %>% 
+  mutate(word = gsub(',', ' ', word)) %>% 
+  mutate(word = str_replace_all(word, '-LRB-', '(')) %>% 
+  mutate(word = str_replace_all(word, '-RRB-', ')')) %>% 
+  mutate(word = str_replace_all(word, '" "', ','))
+
+things %>% select(-`_gddid`) %>% datatable
+
+```
+
+So even here, we can see that many of these matches work, but that some of the matches are incomplete.  There appears to be a much lower proportion of sites returned than we might otherwise expect.  Given that there are `r length(unique(nlp$"_gddid"))` articles in the NLP dataset, it's surprising that only `r length(unique(things$"_gddid"))` appear to support regex matches to coordinate pairs.
+
+In reality, this is likely to be, in part, an issue with the OCR/regex processing. We need to go over the potential matches more thoroughly to find all the alternative methods of indicating the coordinate systems before we can commit to a full analysis.
+
+## Converting Coordinates
+
+So, given the coordinate strings, we need to be able to transform them to reliable lat/long pairs with sufficient trust to actually map the records.  These two functions will convert the GeoDeepDive (GDD) word elements pulled out by the regular expression searches into decimal degrees that can account for reported locations.
+
+```{r}
+
+convert_dec <- function(x, i) {
+
+  drop_comma <- gsub(',', '', x) %>% 
+    substr(., c(1,1), nchar(.) - 1) %>% 
+    as.numeric %>% 
+    unlist
+
+  domain <- (str_detect(x, 'N') * 1 +
+    str_detect(x, 'E') * 1 +
+    str_detect(x, 'W') * -1 +
+    str_detect(x, 'S') * -1) *
+    drop_comma
+
+  publ <- match(nlp_test$`_gddid`[i], publications_test$`_gddid`)
+  
+  check_date <- function(input1, input2, index) {
+    if(isTRUE(input1[index])){
+      date_test_fun <- str_extract(nlp_test$word[index], 
+                              "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP)," )
+    }
+    else if(isTRUE(input2[index])){
+      date_test_fun <- str_extract(nlp_test$word[index],
+                              ",(\\d+(?:[\\.\\s]\\d+){0,1}), yr,")
+    }
+    else {date_test_fun <- "2"}
+    
+    return(date_test_fun)
+  }
+  
+  point_pairs_test <- data.frame(sentence = nlp_test$word[i],
+                            lat = domain[str_detect(x, 'N') | str_detect(x, 'S')],
+                            lng = domain[str_detect(x, 'E') | str_detect(x, 'W')],
+                            publications_test[publ,],
+                            date = check_date(date_range_test, number_test2, i),
+                            stringsAsFactors = FALSE)
+  
+  return(point_pairs_test)  
+}
+
+convert_dm <- function(x, i) {
+
+  # We use the `i` index so that we can keep the coordinate outputs from the 
+  #  regex in a smaller list.
+  dms_test <- data.frame(deg = as.numeric(x[,2]), 
+                    min = as.numeric(x[,3]) / 60,
+                    sec = as.numeric(x[,4]) / 60 ^ 2, 
+                    stringsAsFactors = FALSE)
+  
+  dms_test <- rowSums(dms_test, na.rm = TRUE)
+
+  domain <- (str_detect(x[,5], 'N') * 1 +
+    str_detect(x[,5], 'E') * 1 +
+    str_detect(x[,5], 'W') * -1 +
+    str_detect(x[,5], 'S') * -1) *
+    dms_test
+  
+  publ <- match(nlp_test$`_gddid`[i], publications_test$`_gddid`)
+  
+  check_date <- function(input1, input2, index) {
+    if(isTRUE(input1[index])){
+      date_test_fun <- str_extract(nlp_test$word[index], 
+                              "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP)," )
+    }
+    else if(isTRUE(input2[index])){
+      date_test_fun <- str_extract(nlp_test$word[index],
+                              ",(\\d+(?:[\\.\\s]\\d+){0,1}),yr,")
+    }
+    else {date_test_fun <- "1"}
+    
+    return(date_test_fun)
+  }
+  
+  point_pairs_test <- data.frame(sentence = nlp_test$word[i],
+                            lat = domain[x[,5] %in% c('N', 'S')],
+                            lng = domain[x[,5] %in% c('E', 'W')],
+                            publications_test[publ,],
+                            date = check_date(date_range_test, number_test2, i),
+                            stringsAsFactors = FALSE)
+  
+  return(point_pairs_test)  
+}
+
+```
+
+Then, once we've done that, we need to apply those functions to the set of records we've pulled to build a composite table:
+
+```{r}
+coordinates_test <- list()
+coord_idx <- 1
+
+for(i in 1:length(decdeg_test)) {
+  
+  if((length(decdeg_test[[i]]) %% 2 == 0 | 
+      length(degmin_test[[i]]) %% 2 == 0) & length(degmin_test[[i]]) > 0) {
+    
+    if(any(str_detect(decdeg_test[[i]], '[NS]')) & 
+       sum(str_detect(decdeg_test[[i]], '[EW]')) == sum(str_detect(decdeg_test[[i]], '[NS]'))) {
+      coordinates_test[[coord_idx]] <- convert_dec(decdeg_test[[i]], i)
+      coord_idx <- coord_idx + 1
+    }
+    if(any(str_detect(degmin_test[[i]], '[NS]')) & 
+       sum(str_detect(degmin_test[[i]], '[EW]')) == sum(str_detect(degmin_test[[i]], '[NS]'))) {
+      coordinates_test[[coord_idx]] <- convert_dm(degmin_test[[i]], i)
+      coord_idx <- coord_idx + 1
+    }
+  }
+}
+
+# check true values of number_test2
+for(n in 1:length(number_test2)){
+  if(isTRUE(number_test2[n])){
+    print(n)
+  }
+  n <- n+1
+}
+
+
+
+View(isTRUE(coord_pairs_test[78]))
+
+coordinates_df_test <- coordinates_test %>% bind_rows %>% 
+  mutate(sentence = gsub(',', ' ', sentence)) %>% 
+  mutate(sentence = str_replace_all(sentence, '-LRB-', '(')) %>% 
+  mutate(sentence = str_replace_all(sentence, '-RRB-', ')')) %>% 
+  mutate(sentence = str_replace_all(sentence, '" "', ','))
+
+coordinates_df_test$doi <- coordinates_df_test$identifier %>% map(function(x) x$id) %>% unlist
+
+leaflet(coordinates_df_test) %>% 
+  addProviderTiles(providers$CartoDB.Positron) %>% 
+  addCircleMarkers(popup = paste0('<b>', coordinates_df_test$title, '</b><br>',
+                                  '<a href=https://doi.org/',
+                                  coordinates_df_test$doi,'>Publication Link</a><br>',
+                                  '<b>Sentence:</b><br>',
+                                  '<small>',gsub(',', ' ', coordinates_df_test$sentence),
+                                  '</small>'))
+
+```
+
+After cleaning the corpus, here are the sites that we pull out from GeoDeepDive. We find 11 papers with 30 coordinate pairs out of 150 documents in the IRDDive test dump. We still have limitations to the current methods.  First, it appears we are finding papers where IRD is simply mentioned, and it is not core data. To circumvent this issue, we need to know where in these papers IRD is being referred to. Perhaps we can target certain parts of the paper, like the Methods, to ensure we are getting coordinates for IRD data. While we are finding papers with IRD and core data, we are finding papers with IRD and no core data, so it is an important next step to evaluate whether these papers actually contain coordinate information. Additionally, some papers mention IRD in the core data for continental cores (see Central Asia location). Perhaps by stripping documents that mention 'continental (place name)' we can clean this further. Another option is to cross-reference it with polygons of the continents and remove coordinate pairs that fall within the continental boundaries. One last step is to to obtain documents that mention IRD, but as 'IRD-rich layers' by using a regex. Once these last few issues are sorted out, we can begin to pull dates and provenance information from the documents.  
+
+## Pulling ages and age ranges
+
+One of the next steps once the corpus of doucments is cleaned and coordinates obtained and cross-referenced to a database of ODP cores is pull ages and age ranges associated with IRD events. This will require building regex's that pull dates with many different naming conventions. For example, we will need to consider: 
+
+| Age reference |
+| -----------   |
+| years BP      |
+| kyr BP        |
+| ka BP         |
+| a BP          |
+| etc.          |
+
+For this, we can use the browse.R function to look for the different naming conventions and then start pulling ages and age ranges associated with them. 
+========================================
+{r, eval=FALSE}
+<<<<<<< Updated upstream
+
+is_date <- str_detect(full_nlp$word, "BP")
+
+x$word[is_date&ird_word][4]
+
+date_range <- str_detect(full_nlp$word, 
+                         "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),")
+
+date_match <- str_match(full_nlp$word, 
+                         "(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),") %>% na.omit()
+
+browse(x = data.frame(gddid = x$`_gddid`[ird_word&!france], 
+                      words = x$word[ird_word&!france]), 
+       pubs = publications)
+
+number <- str_detect(full_nlp$word, 
+                         ",(\\d+(?:[\\.\\s]\\d+){0,1}),.*?,yr,")
+========================================
+##Output from pulling and cleaning dates using regex:
+
+| Age ranges             |         
+| -----------            |         
+| "76,to,62,kyr,BP,"     |       
+| "6,--,6.4,kyr,BP,"     |        
+| "6,to,3,kyr,BP,"       |       
+| "11,--,10,kyr,BP,"     |        
+| "6.0,--,6.7,kyr,BP,"   |        
+
+| Age captures     |
+| -----------      |
+| "76"  "to" "62"  | 
+| "6"   "--" "6.4" |
+| "6"   "to" "3"   |
+| "11"  "--" "10"  |
+| "6.0" "--" "6.7" |
+
+| Date Label  |
+| ----------- |
+| "kyr,BP"    |
+| "kyr,BP"    |
+| "kyr,BP"    |
+| "kyr,BP"    |
+| "kyr,BP"    |
+
+We are successfully identifying instances of dates in the papers where there are references to IRD. Now we need to match the dates to specific units, etc. 

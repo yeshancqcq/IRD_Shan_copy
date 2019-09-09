@@ -1,0 +1,54 @@
+[{"title":"DOI regex",
+  "author":"Simon Goring",
+  "orcid": "0000-0002-2700-4605",
+  "description":"Matches DOIs in papers, described in https://www.crossref.org/blog/dois-and-matching-regular-expressions/",
+  "regex":"/^10.\\d{4,9}/[-._;()/:A-Z0-9]+$/i"
+  },
+  {"title":"NSF Award Numbers",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Very general search for reporting of NSF award numbers.",
+    "regex":"NSF-{1,2}\\d+"
+  },
+  {"title":"References to supplemental material",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Very general search for a reference to supplemental material.",
+    "regex":"(S|s)upplement,\\d{1,2}"
+  },
+  {"title":"ORCID regex",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Matches ORCIDs in papers.",
+    "regex":"(\\d{4})-(\\d{4})-(\\d{4})-(\\d{3}[0-9X])"
+  },
+  {"title":"Find Degrees Minutes Seconds Coordinates",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Attempts to match geographic coordinates (latitude, longitude) reported as DMS.",
+    "regex":"[\\{,]([-]?[1]?[0-9]{1,2}?)(?:(?:,[°◦o],)|(?:[O])|(?:,`{2},))([1]?[0-9]{1,2}(?:.[0-9]*)),[′'`]?[,]?([[0-9]{0,2}]?)[\"]?[,]?([NESWnesw]?),"
+  },
+  {"title":"Age ranges BP",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Age ranges reported as something BP.",
+    "regex":"(\\d+(?:[.]\\d+)*),((?:-{1,2})|(?:to)),(\\d+(?:[.]\\d+)*),([a-zA-Z]+,BP),"
+  },
+  {"title":"Find Decimal Degrees",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Attempts to match geographic coordinates (latitude, longitude) reported as decimal degrees.",
+    "regex":"[\\{,][-]?[1]?[0-9]{1,2}\\.[0-9]{1,}[,]?[NESWnesw],"
+  },
+  {"title":"HTML regex",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Matches any http URLs that are reported in papers.",
+    "regex":"^(https?:\/\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\/\\w \\.-]*)*\/?$"
+  },
+  {"title":"Numeric age regex with yr",
+    "author":"Simon Goring",
+    "orcid": "0000-0002-2700-4605",
+    "description":"Matches DOIs in papers, described in https://www.crossref.org/blog/dois-and-matching-regular-expressions/",
+    "regex":",(\\d+(?:[\\.\\s]\\d+){0,1}),.*?,yr,"
+  }]

@@ -1,0 +1,6432 @@
+[
+    {
+        "publisher": "Elsevier", 
+        "title": "Goldschmidt Abstracts 2008- R", 
+        "journal": {
+            "name": "Geochimica et Cosmochimica Acta"
+        }, 
+        "author": [], 
+        "year": "2008", 
+        "number": "12", 
+        "volume": "72", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0016703708002767", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55c17723cf58f1a8110b808d", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.gca.2008.05.020"
+            }
+        ], 
+        "type": "article", 
+        "pages": "A772--A816"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Holocene sea surface conditions in the western North Atlantic: Spatial and temporal heterogeneities", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "Solignac, Sandrine"
+            }, 
+            {
+                "name": "Giraudeau, Jacques"
+            }, 
+            {
+                "name": "de Vernal, Anne"
+            }
+        ], 
+        "year": "2006", 
+        "number": "2", 
+        "volume": "21", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2005PA001175", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "568efbc8cf58f11e8bd6993e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2005PA001175"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Petrology of Quaternary volcanic rocks and related plutonic xenoliths from G\u00f6lc\u00fck volcano, Isparta Angle, Turkey: Origin and evolution of the high-K alkaline series", 
+        "journal": {
+            "name": "Journal of Asian Earth Sciences"
+        }, 
+        "author": [
+            {
+                "name": "Platevoet, Bernard"
+            }, 
+            {
+                "name": "Elitok, \u00d6mer"
+            }, 
+            {
+                "name": "Guillou, Herv\u00e9"
+            }, 
+            {
+                "name": "Bardintzeff, Jacques-Marie"
+            }, 
+            {
+                "name": "Yagmurlu, Fuzuli"
+            }, 
+            {
+                "name": "Nomade, S\u00e9bastien"
+            }, 
+            {
+                "name": "Poisson, Andr\u00e9"
+            }, 
+            {
+                "name": "Deniel, Catherine"
+            }, 
+            {
+                "name": "\u00d6zg\u00fcr, Nevzat"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1367912014002557", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4327de138239d86853072", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jseaes.2014.06.012"
+            }
+        ], 
+        "type": "article", 
+        "pages": "53--76"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Biomarker and isotope evidence for microbially-mediated carbonate formation from gypsum and petroleum hydrocarbons", 
+        "journal": {
+            "name": "Chemical Geology"
+        }, 
+        "author": [
+            {
+                "name": "Aloisi, G."
+            }, 
+            {
+                "name": "Baudrand, M."
+            }, 
+            {
+                "name": "L\u00e9cuyer, C."
+            }, 
+            {
+                "name": "Rouchy, J.-M."
+            }, 
+            {
+                "name": "Pancost, R.D."
+            }, 
+            {
+                "name": "Aref, M.A.M."
+            }, 
+            {
+                "name": "Grossi, V."
+            }
+        ], 
+        "year": "2013", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0009254113001216", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54c0ce59e1382389c54c392f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.chemgeo.2013.03.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "199--207"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Atmospheric changes in North America during the last deglaciation from dune-wetland records in the Midwestern United States", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Wang, Hong"
+            }, 
+            {
+                "name": "Stumpf, Andrew J."
+            }, 
+            {
+                "name": "Miao, Xiaodong"
+            }, 
+            {
+                "name": "Lowell, Thomas V."
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0277379112004143", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55073170e1382326932d946d", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2012.10.018"
+            }
+        ], 
+        "type": "article", 
+        "pages": "124--134"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Which is the better proxy for paleo-current strength: Sortable-silt mean size ( SS\u00af) or sortable-silt mean grain diameter (d SS )? A case study from the Nordic Seas", 
+        "journal": {
+            "name": "Geochemistry, Geophysics, Geosystems"
+        }, 
+        "author": [
+            {
+                "name": "Tegzes, Andrea D."
+            }, 
+            {
+                "name": "Jansen, Eystein"
+            }, 
+            {
+                "name": "Telford, Richard J."
+            }
+        ], 
+        "year": "2015", 
+        "number": "10", 
+        "volume": "16", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/2014GC005655", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56748177cf58f12215607487", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/2014GC005655"
+            }
+        ], 
+        "type": "article", 
+        "pages": "3456--3471"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Late Neogene interglacial events in the James Ross Island region, northern Antarctic Peninsula, dated by Ar/Ar and Sr-isotope stratigraphy", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Smellie, J.L."
+            }, 
+            {
+                "name": "McArthur, J.M."
+            }, 
+            {
+                "name": "McIntosh, W.C."
+            }, 
+            {
+                "name": "Esser, R."
+            }
+        ], 
+        "year": "2006", 
+        "number": "3-4", 
+        "volume": "242", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018206003270", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324be138239d8684a670", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2006.06.003"
+            }
+        ], 
+        "type": "article", 
+        "pages": "169--187"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Devising quality assurance procedures for assessment of legacy geochronological data relating to deglaciation of the last British-Irish Ice Sheet", 
+        "journal": {
+            "name": "Earth-Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Small, David"
+            }, 
+            {
+                "name": "Clark, Chris D."
+            }, 
+            {
+                "name": "Chiverrell, Richard C."
+            }, 
+            {
+                "name": "Smedley, Rachel K."
+            }, 
+            {
+                "name": "Bateman, Mark D."
+            }, 
+            {
+                "name": "Duller, Geoff A.T."
+            }, 
+            {
+                "name": "Ely, Jeremy C."
+            }, 
+            {
+                "name": "Fabel, Derek"
+            }, 
+            {
+                "name": "Medialdea, Alicia"
+            }, 
+            {
+                "name": "Moreton, Steven G."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012825216304408", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "58b6db32cf58f11f2b0ddf32", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.earscirev.2016.11.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "232--250"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Deep western boundary current dynamics and associated sedimentation on the Eirik Drift, Southern Greenland Margin", 
+        "journal": {
+            "name": "Deep Sea Research Part I: Oceanographic Research Papers"
+        }, 
+        "author": [
+            {
+                "name": "Hunter, Sally"
+            }, 
+            {
+                "name": "Wilkinson, David"
+            }, 
+            {
+                "name": "Louarn, Essyllt"
+            }, 
+            {
+                "name": "Nick McCave, I."
+            }, 
+            {
+                "name": "Rohling, Eelco"
+            }, 
+            {
+                "name": "Stow, Dorrik A.V."
+            }, 
+            {
+                "name": "Bacon, Sheldon"
+            }
+        ], 
+        "year": "2007", 
+        "number": "12", 
+        "volume": "54", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0967063707002245", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55691d13e1382382d70cfa13", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.dsr.2007.09.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "2036--2066"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Southernmost evidence of large European Ice Sheet-derived freshwater discharges during the Heinrich Stadials of the Last Glacial Period (Galician Interior Basin, Northwest Iberian Continental Margin)", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Plaza-Morlote, M."
+            }, 
+            {
+                "name": "Rey, D."
+            }, 
+            {
+                "name": "Santos, J.F."
+            }, 
+            {
+                "name": "Ribeiro, S."
+            }, 
+            {
+                "name": "Heslop, D."
+            }, 
+            {
+                "name": "Bernabeu, A."
+            }, 
+            {
+                "name": "Mohamed, K.J."
+            }, 
+            {
+                "name": "Rubio, B."
+            }, 
+            {
+                "name": "Mart\u00edns, V."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X16305775", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "586bcb59cf58f104a7201681", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.epsl.2016.10.020"
+            }
+        ], 
+        "type": "article", 
+        "pages": "213--226"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Late Quaternary chronostratigraphic framework of deep Baffin Bay glaciomarine sediments from high-resolution paleomagnetic data", 
+        "journal": {
+            "name": "Geochemistry, Geophysics, Geosystems"
+        }, 
+        "author": [
+            {
+                "name": "Simon, Quentin"
+            }, 
+            {
+                "name": "St-Onge, Guillaume"
+            }, 
+            {
+                "name": "Hillaire-Marcel, Claude"
+            }
+        ], 
+        "year": "2012", 
+        "number": "11", 
+        "volume": "13", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2012GC004272", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56749733cf58f122156075ac", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2012GC004272"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Toward the feldspar alternative for cosmogenic 10Be applications", 
+        "journal": {
+            "name": "Quaternary Geochronology"
+        }, 
+        "author": [
+            {
+                "name": "Zerathe, Swann"
+            }, 
+            {
+                "name": "Blard, Pierre-Henri"
+            }, 
+            {
+                "name": "Braucher, R\u00e9gis"
+            }, 
+            {
+                "name": "Bourl\u00e8s, Didier"
+            }, 
+            {
+                "name": "Audin, Laurence"
+            }, 
+            {
+                "name": "Carcaillet, Julien"
+            }, 
+            {
+                "name": "Delgado, Fabrizio"
+            }, 
+            {
+                "name": "Benavente, Carlos"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "41", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S1871101417300420", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2abe29cf58f183c829b6a7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quageo.2017.06.004"
+            }
+        ], 
+        "type": "article", 
+        "pages": "83--96"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Constraining the amplitude of late Oligocene bathymetric changes in Western Ross Sea during orbitally-induced oscillations in the East Antarctic Ice Sheet: (1) Implications for glacimarine sequence stratigraphic models", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Dunbar, G.B."
+            }, 
+            {
+                "name": "Naish, T.R."
+            }, 
+            {
+                "name": "Barrett, P.J."
+            }, 
+            {
+                "name": "Fielding, C.R."
+            }, 
+            {
+                "name": "Powell, R.D."
+            }
+        ], 
+        "year": "2008", 
+        "number": "1", 
+        "volume": "260", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018207005895", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55f4a2e5cf58f16256a225f0", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2007.08.018"
+            }
+        ], 
+        "type": "article", 
+        "pages": "50--65"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Holocene sea-level change in the South Wellesley Islands, Gulf of Carpentaria, Australia: a pilot study", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Sloss, Craig"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618212025402", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5804969fcf58f14ccc0d14f5", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2012.08.1500"
+            }
+        ], 
+        "type": "article", 
+        "pages": "454"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "100,000-year-long terrestrial record of millennial-scale linkage between eastern North American mid-latitude paleovegetation shifts and Greenland ice-core oxygen isotope trends", 
+        "journal": {
+            "name": "Quaternary Research"
+        }, 
+        "author": [
+            {
+                "name": "Litwin, Ronald J."
+            }, 
+            {
+                "name": "Smoot, Joseph P."
+            }, 
+            {
+                "name": "Pavich, Milan J."
+            }, 
+            {
+                "name": "Markewich, Helaine W."
+            }, 
+            {
+                "name": "Brook, George"
+            }, 
+            {
+                "name": "Durika, Nancy J."
+            }
+        ], 
+        "year": "2013", 
+        "number": "2", 
+        "volume": "80", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0033589413000513", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43265e138239d8684ed88", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.yqres.2013.05.003"
+            }
+        ], 
+        "type": "article", 
+        "pages": "291--315"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "New stratigraphic, sedimentologic and structural data on the kerri-kerri formation, Bauchi and Borno States, Nigeria", 
+        "journal": {
+            "name": "Journal of African Earth Sciences (1983)"
+        }, 
+        "author": [
+            {
+                "name": "Adegoke, O.S."
+            }, 
+            {
+                "name": "Agumanu, A.E."
+            }, 
+            {
+                "name": "Benkhelil, M.J."
+            }, 
+            {
+                "name": "Ajayi, P.O."
+            }
+        ], 
+        "year": "1986", 
+        "number": "3", 
+        "volume": "5", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/0899536286900163", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43258e138239d8684c8d9", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0899-5362(86)90016-3"
+            }
+        ], 
+        "type": "article", 
+        "pages": "249--277"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "The Gulf of Lions: An overview of recent studies within the French \u2018Margins\u2019 programme", 
+        "journal": {
+            "name": "Marine and Petroleum Geology"
+        }, 
+        "author": [
+            {
+                "name": "Bern\u00e9, S."
+            }, 
+            {
+                "name": "Gorini, C."
+            }
+        ], 
+        "year": "2005", 
+        "number": "6-7", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0264817205000528", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4327ae138239d8685283e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.marpetgeo.2005.04.004"
+            }
+        ], 
+        "type": "article", 
+        "pages": "691--693"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Radiations and key innovations in an early branching angiosperm lineage (Annonaceae; Magnoliales)", 
+        "journal": {
+            "name": "Botanical Journal of the Linnean Society"
+        }, 
+        "author": [
+            {
+                "name": "ERKENS, ROY H. J."
+            }, 
+            {
+                "name": "CHATROU, LARS W."
+            }, 
+            {
+                "name": "COUVREUR, THOMAS L. P."
+            }
+        ], 
+        "year": "2012", 
+        "number": "1", 
+        "volume": "169", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1095-8339.2012.01223.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5791ec56cf58f1b04c35df1c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1095-8339.2012.01223.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "117--134"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Calcareous plankton response to orbital and millennial-scale climate changes across the Middle Pleistocene in the western Mediterranean", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Girone, Angela"
+            }, 
+            {
+                "name": "Maiorano, Patrizia"
+            }, 
+            {
+                "name": "Marino, Maria"
+            }, 
+            {
+                "name": "Kucera, Michal"
+            }
+        ], 
+        "year": "2013", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018213004070", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324ce138239d8684a905", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2013.09.005"
+            }
+        ], 
+        "type": "article", 
+        "pages": "105--116"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A Late Holocene deep-seated landslide in the northern French Pyrenees", 
+        "journal": {
+            "name": "Geomorphology"
+        }, 
+        "author": [
+            {
+                "name": "Lebourg, T."
+            }, 
+            {
+                "name": "Zerathe, S."
+            }, 
+            {
+                "name": "Fabre, R."
+            }, 
+            {
+                "name": "Giuliano, J."
+            }, 
+            {
+                "name": "Vidal, M."
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0169555X13005849", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "551affcce1382394b500e65c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.geomorph.2013.11.008"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--10"
+    }, 
+    {
+        "publisher": "Taylor and Francis", 
+        "title": "A Miocene relative of the Ganges River dolphin (Odontoceti, Platanistidae) from the Amazonian Basin", 
+        "journal": {
+            "name": "Journal of Vertebrate Paleontology"
+        }, 
+        "author": [
+            {
+                "name": "Bianucci, Giovanni"
+            }, 
+            {
+                "name": "Lambert, Olivier"
+            }, 
+            {
+                "name": "Salas-Gismondi, Rodolfo"
+            }, 
+            {
+                "name": "Tejada, Julia"
+            }, 
+            {
+                "name": "Pujos, Fran\u00e7ois"
+            }, 
+            {
+                "name": "Urbina, Mario"
+            }, 
+            {
+                "name": "Antoine, Pierre-Olivier"
+            }
+        ], 
+        "year": "2013", 
+        "number": "3", 
+        "volume": "33", 
+        "link": [
+            {
+                "url": "http://www.tandfonline.com/doi/abs/10.1080/02724634.2013.734888", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "58cb9ec5cf58f120498c572a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1080/02724634.2013.734888"
+            }
+        ], 
+        "type": "article", 
+        "pages": "741--745"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Monitoring Termination II at high latitude: anomalies in the planktic foraminiferal record", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Bauch, Henning A."
+            }
+        ], 
+        "year": "1996", 
+        "number": "1-2", 
+        "volume": "131", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/0025322795001476", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43282e138239d86853e50", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0025-3227(95)00147-6"
+            }
+        ], 
+        "type": "article", 
+        "pages": "89--102"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Assessment and calibration of TEX86 paleothermometry in the Sea of Okhotsk and sub-polar North Pacific region: Implications for paleoceanography", 
+        "journal": {
+            "name": "Progress in Oceanography"
+        }, 
+        "author": [
+            {
+                "name": "Seki, Osamu"
+            }, 
+            {
+                "name": "Bendle, James A."
+            }, 
+            {
+                "name": "Harada, Naomi"
+            }, 
+            {
+                "name": "Kobayashi, Madoka"
+            }, 
+            {
+                "name": "Sawada, Ken"
+            }, 
+            {
+                "name": "Moossen, Heiko"
+            }, 
+            {
+                "name": "Inglis, Gordon N."
+            }, 
+            {
+                "name": "Nagao, Seiya"
+            }, 
+            {
+                "name": "Sakamoto, Tatsuhiko"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0079661114000615", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57df7332cf58f1780e206ec8", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.pocean.2014.04.013"
+            }
+        ], 
+        "type": "article", 
+        "pages": "254--266"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Water exchange between the continental shelf and the cavity beneath Nioghalvfjerdsbrae (79 North Glacier)", 
+        "journal": {
+            "name": "Geophysical Research Letters"
+        }, 
+        "author": [
+            {
+                "name": "Wilson, N. J."
+            }, 
+            {
+                "name": "Straneo, F."
+            }
+        ], 
+        "year": "2015", 
+        "number": "18", 
+        "volume": "42", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/2015GL064944", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56f85b6dcf58f13b041b67e8", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/2015GL064944"
+            }
+        ], 
+        "type": "article", 
+        "pages": "7648--7654"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "External controls on turbidite sedimentation on the glacially-influenced Armorican margin (Bay of Biscay, western European margin)", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Toucanne, Samuel"
+            }, 
+            {
+                "name": "Zaragosi, Sebastien"
+            }, 
+            {
+                "name": "Bourillet, Jean-Fran\u00e7ois"
+            }, 
+            {
+                "name": "Dennielou, Bernard"
+            }, 
+            {
+                "name": "Jorry, Stephan J."
+            }, 
+            {
+                "name": "Jouet, Gwenael"
+            }, 
+            {
+                "name": "Cremer, Michel"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322712000503", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43277e138239d86852046", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.margeo.2012.02.008"
+            }
+        ], 
+        "type": "article", 
+        "pages": "137--153"
+    }, 
+    {
+        "publisher": "Taylor and Francis", 
+        "title": "Morphometric and molecular variation in mountain catfishes (Amphiliidae: Amphilius ) in Guinea, West Africa", 
+        "journal": {
+            "name": "Journal of Natural History"
+        }, 
+        "author": [
+            {
+                "name": "Schmidt, Ray C."
+            }, 
+            {
+                "name": "Pezold, Frank"
+            }
+        ], 
+        "year": "2011", 
+        "number": "9-10", 
+        "volume": "45", 
+        "link": [
+            {
+                "url": "http://www.tandfonline.com/doi/abs/10.1080/00222933.2010.534560", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "59644d89cf58f15e4faeb33b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1080/00222933.2010.534560"
+            }
+        ], 
+        "type": "article", 
+        "pages": "521--552"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Biogeomorphology of the Mediterranean Posidonia oceanica seagrass meadows", 
+        "journal": {
+            "name": "Earth Surface Processes and Landforms"
+        }, 
+        "author": [
+            {
+                "name": "Vacchi, Matteo"
+            }, 
+            {
+                "name": "De Falco, Giovanni"
+            }, 
+            {
+                "name": "Simeone, Simone"
+            }, 
+            {
+                "name": "Montefalcone, Monica"
+            }, 
+            {
+                "name": "Morri, Carla"
+            }, 
+            {
+                "name": "Ferrari, Marco"
+            }, 
+            {
+                "name": "Bianchi, Carlo Nike"
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/esp.3932", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "579fcc4ecf58f14d4f6f6446", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/esp.3932"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Late Cretaceous\u2013early Eocene counterclockwise rotation of the Fueguian Andes and evolution of the Patagonia\u2013Antarctic Peninsula system", 
+        "journal": {
+            "name": "Tectonophysics"
+        }, 
+        "author": [
+            {
+                "name": "Poblete, F."
+            }, 
+            {
+                "name": "Roperch, P."
+            }, 
+            {
+                "name": "Arriagada, C."
+            }, 
+            {
+                "name": "Ruffet, G."
+            }, 
+            {
+                "name": "Ram\u00edrez de Arellano, C."
+            }, 
+            {
+                "name": "Herv\u00e9, F."
+            }, 
+            {
+                "name": "Poujol, M."
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S004019511500654X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5765b400cf58f1b721f150de", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.tecto.2015.11.025"
+            }
+        ], 
+        "type": "article", 
+        "pages": "15--34"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Coherent patterns of ice-rafted debris deposits in the Nordic regions during the last glacial (10\u201360 ka)", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Elliot, Mary"
+            }, 
+            {
+                "name": "Labeyrie, Laurent"
+            }, 
+            {
+                "name": "Dokken, Trond"
+            }, 
+            {
+                "name": "Manth\u00e9, Sandrine"
+            }
+        ], 
+        "year": "2001", 
+        "number": "", 
+        "volume": "1-2", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X01005611", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54fcf207e138239936c6df56", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0012-821X(01)00561-1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "151--163"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Managed aquifer recharge in South India: What to expect from small percolation tanks in hard rock?", 
+        "journal": {
+            "name": "Journal of Hydrology"
+        }, 
+        "author": [
+            {
+                "name": "Massuel, S."
+            }, 
+            {
+                "name": "Perrin, J."
+            }, 
+            {
+                "name": "Mascre, C."
+            }, 
+            {
+                "name": "Mohamed, W."
+            }, 
+            {
+                "name": "Boisson, A."
+            }, 
+            {
+                "name": "Ahmed, S."
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S002216941400170X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54e0700ae138238a47f9740c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jhydrol.2014.02.062"
+            }
+        ], 
+        "type": "article", 
+        "pages": "157--167"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "The magnitudes of millennial- and orbital-scale climatic change in eastern North America during the Late Quaternary", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Shuman, Bryan"
+            }, 
+            {
+                "name": "Bartlein, Patrick J."
+            }, 
+            {
+                "name": "Webb, Thompson"
+            }
+        ], 
+        "year": "2005", 
+        "number": "", 
+        "volume": "20-21", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S027737910500137X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "550598d3e1382326932d8dda", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2005.03.018"
+            }
+        ], 
+        "type": "article", 
+        "pages": "2194--2206"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Abrupt variations in South American monsoon rainfall during the Holocene based on a speleothem record from central-eastern Brazil", 
+        "journal": {
+            "name": "Geology"
+        }, 
+        "author": [
+            {
+                "name": "Strikis, N. M."
+            }, 
+            {
+                "name": "Cruz, F. W."
+            }, 
+            {
+                "name": "Cheng, H."
+            }, 
+            {
+                "name": "Karmann, I."
+            }, 
+            {
+                "name": "Edwards, R. L."
+            }, 
+            {
+                "name": "Vuille, M."
+            }, 
+            {
+                "name": "Wang, X."
+            }, 
+            {
+                "name": "de Paula, M. S."
+            }, 
+            {
+                "name": "Novello, V. F."
+            }, 
+            {
+                "name": "Auler, A. S."
+            }
+        ], 
+        "year": "2011", 
+        "number": "11", 
+        "volume": "39", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/g32098.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57a05ec9cf58f17856dc1d2e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/g32098.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1075--1078"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Rapid identification of dolomite using a Fourier Transform Infrared Spectrophotometer (FTIR): A fast method for identifying Heinrich events in IODP Site U1308", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Ji, Junfeng"
+            }, 
+            {
+                "name": "Ge, Yun"
+            }, 
+            {
+                "name": "Balsam, William"
+            }, 
+            {
+                "name": "Damuth, John E."
+            }, 
+            {
+                "name": "Chen, Jun"
+            }
+        ], 
+        "year": "2009", 
+        "number": "1-4", 
+        "volume": "258", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322708003101", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43278e138239d86852441", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.margeo.2008.11.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "60--68"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Eastern Boundary Upwelling Ecosystems: Integrative and comparative approaches", 
+        "journal": {
+            "name": "Progress in Oceanography"
+        }, 
+        "author": [
+            {
+                "name": "Fr\u00e9on, Pierre"
+            }, 
+            {
+                "name": "Barange, Manuel"
+            }, 
+            {
+                "name": "Ar\u00edstegui, Javier"
+            }
+        ], 
+        "year": "2009", 
+        "number": "1", 
+        "volume": "83", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0079661109001323", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "577bfa58cf58f17380060eaa", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.pocean.2009.08.001"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--14"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Eos, Transactions, American Geophysical Union Volume 87, Number 29, 18 July 2006", 
+        "journal": {
+            "name": "Eos, Transactions American Geophysical Union"
+        }, 
+        "author": [], 
+        "year": "2006", 
+        "number": "29", 
+        "volume": "87", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/eost2006EO29", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5706e2adcf58f184db993826", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/eost2006EO29"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Multiple analysis of variation of the East Asian Monsoon during the Holocene", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Liu, Huiyu"
+            }, 
+            {
+                "name": "Lin, Zhenshan"
+            }, 
+            {
+                "name": "Qi, Xiangzhen"
+            }, 
+            {
+                "name": "Zhang, Mingyang"
+            }, 
+            {
+                "name": "Zhang, Zhenzhen"
+            }, 
+            {
+                "name": "Du, Jianli"
+            }
+        ], 
+        "year": "2010", 
+        "number": "1", 
+        "volume": "213", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618209000482", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5833da37cf58f114846038a2", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2009.02.017"
+            }
+        ], 
+        "type": "article", 
+        "pages": "74--78"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Constraints on the late Quaternary glaciations in Tibet from cosmogenic exposure ages of moraine surfaces", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Chevalier, Marie-Luce"
+            }, 
+            {
+                "name": "Hilley, George"
+            }, 
+            {
+                "name": "Tapponnier, Paul"
+            }, 
+            {
+                "name": "Van Der Woerd, J\u00e9r\u00f4me"
+            }, 
+            {
+                "name": "Liu-Zeng, Jing"
+            }, 
+            {
+                "name": "Finkel, Robert C."
+            }, 
+            {
+                "name": "Ryerson, Frederick J."
+            }, 
+            {
+                "name": "Li, Haibing"
+            }, 
+            {
+                "name": "Liu, Xiaohan"
+            }
+        ], 
+        "year": "2011", 
+        "number": "", 
+        "volume": "5-6", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0277379110004014", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5507b7b0e1382326932d96b7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2010.11.005"
+            }
+        ], 
+        "type": "article", 
+        "pages": "528--554"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Snow shielding factors for cosmogenic nuclide dating inferred from long-term neutron detector monitoring", 
+        "journal": {
+            "name": "Quaternary Geochronology"
+        }, 
+        "author": [
+            {
+                "name": "Delunel, Romain"
+            }, 
+            {
+                "name": "Bourl\u00e8s, Didier L."
+            }, 
+            {
+                "name": "van der Beek, Peter A."
+            }, 
+            {
+                "name": "Schlunegger, Fritz"
+            }, 
+            {
+                "name": "Leya, Ingo"
+            }, 
+            {
+                "name": "Masarik, Jozef"
+            }, 
+            {
+                "name": "Paquet, Emmanuel"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1871101414000715", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54d63e36e138238471e7f9c5", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quageo.2014.07.003"
+            }
+        ], 
+        "type": "article", 
+        "pages": "16--26"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Mineralogical and numerical approaches to establish the pre-eruptive conditions of the mafic Lic\u00e1n Ignimbrite, Villarrica Volcano (Chilean Southern Andes)", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Lohmar, Silke"
+            }, 
+            {
+                "name": "Parada, Miguel"
+            }, 
+            {
+                "name": "Guti\u00e9rrez, Francisco"
+            }, 
+            {
+                "name": "Robin, Claude"
+            }, 
+            {
+                "name": "Gerbe, Marie Christine"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0377027312001448", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5546f1c2e138233dfd7d3cb4", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2012.05.006"
+            }
+        ], 
+        "type": "article", 
+        "pages": "55--69"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Neoproterozoic glaciation on a carbonate platform margin in Arctic Alaska and the origin of the North Slope subterrane", 
+        "journal": {
+            "name": "Geological Society of America Bulletin"
+        }, 
+        "author": [
+            {
+                "name": "Macdonald, Francis A."
+            }, 
+            {
+                "name": "McClelland, William C."
+            }, 
+            {
+                "name": "Schrag, Daniel P."
+            }, 
+            {
+                "name": "Macdonald, Winston P."
+            }
+        ], 
+        "year": "2009", 
+        "number": "3-4", 
+        "volume": "121", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/b26401.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "579dbe24cf58f16e02b22d27", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/b26401.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "448--473"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Reconstructing irrigation at Otrar Oasis, Kazakhstan,AD 800-1700", 
+        "journal": {
+            "name": "Irrigation and Drainage"
+        }, 
+        "author": [
+            {
+                "name": "Clarke, D."
+            }, 
+            {
+                "name": "Sala, R."
+            }, 
+            {
+                "name": "Deom, J.-M."
+            }, 
+            {
+                "name": "Meseth, E."
+            }
+        ], 
+        "year": "2005", 
+        "number": "4", 
+        "volume": "54", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/ird.195", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56c5958acf58f17493f86dbc", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/ird.195"
+            }
+        ], 
+        "type": "article", 
+        "pages": "375--388"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Turbidity events observed in situ along the Congo submarine channel", 
+        "journal": {
+            "name": "Deep Sea Research Part II: Topical Studies in Oceanography"
+        }, 
+        "author": [
+            {
+                "name": "Vangriesheim, Annick"
+            }, 
+            {
+                "name": "Khripounoff, Alexis"
+            }, 
+            {
+                "name": "Crassous, Philippe"
+            }
+        ], 
+        "year": "2009", 
+        "number": "23", 
+        "volume": "56", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0967064509000800", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "556877cbe1382382d70cf768", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.dsr2.2009.04.004"
+            }
+        ], 
+        "type": "article", 
+        "pages": "2208--2222"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "COOL SHALLOW ORIGIN OF PETROLEUM\u2014MICROBIAL GENESIS AND SUBSEQUENT DEGRADATION", 
+        "journal": {
+            "name": "Journal of Petroleum Geology"
+        }, 
+        "author": [
+            {
+                "name": "Yi-gang, Zhang"
+            }
+        ], 
+        "year": "1981", 
+        "number": "4", 
+        "volume": "3", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1747-5457.1981.tb00940.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56833996cf58f1479a0abb92", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1747-5457.1981.tb00940.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "427--444"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Pleistocene forced regressions and tidal sand ridges in the East China Sea", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Bern\u00e9, Serge"
+            }, 
+            {
+                "name": "Vagner, Pierre"
+            }, 
+            {
+                "name": "Guichard, Fran\u00e7ois"
+            }, 
+            {
+                "name": "Lericolais, Gilles"
+            }, 
+            {
+                "name": "Liu, Zhenxia"
+            }, 
+            {
+                "name": "Trentesaux, Alain"
+            }, 
+            {
+                "name": "Yin, Ping"
+            }, 
+            {
+                "name": "Yi, Hi Il"
+            }
+        ], 
+        "year": "2002", 
+        "number": "3-4", 
+        "volume": "188", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322702004462", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4327be138239d86852b16", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0025-3227(02)00446-2"
+            }
+        ], 
+        "type": "article", 
+        "pages": "293--315"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Discovery of a Mesolithic burial near the painted rock-shelter of Ban Tha Si (Lampang province, Northern Thailand): Implications for regional mortuary practices", 
+        "journal": {
+            "name": "Comptes Rendus Palevol"
+        }, 
+        "author": [
+            {
+                "name": "Zeitoun, Valery"
+            }, 
+            {
+                "name": "Auetrakulvit, Prasit"
+            }, 
+            {
+                "name": "Forestier, Hubert"
+            }, 
+            {
+                "name": "Zazzo, Antoine"
+            }, 
+            {
+                "name": "Davtian, Gourgen"
+            }, 
+            {
+                "name": "Nakbunlung, Supaporn"
+            }, 
+            {
+                "name": "Tiamtinkrit, Chaturaporn"
+            }
+        ], 
+        "year": "2013", 
+        "number": "2", 
+        "volume": "12", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1631068312001558", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43261e138239d8684e2f7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.crpv.2012.09.002"
+            }
+        ], 
+        "type": "article", 
+        "pages": "127--136"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Early Holocene environmental transformations at Lone Spruce Pond, southwestern Alaska", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Kaufman, Darrell"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618212015790", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5737e8a5cf58f11622512f09", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2012.08.539"
+            }
+        ], 
+        "type": "article", 
+        "pages": "237--238"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A late Holocene paleoclimate reconstruction from Boqueir\u00e3o Lake sediments, northeastern Brazil", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Viana, Jo\u00e3o Cl\u00e1udio Cerqueira"
+            }, 
+            {
+                "name": "Sifeddine, Abdelfettah"
+            }, 
+            {
+                "name": "Turcq, Bruno"
+            }, 
+            {
+                "name": "Albuquerque, Ana Luiza Spadano"
+            }, 
+            {
+                "name": "Moreira, Luciane Silva"
+            }, 
+            {
+                "name": "Gomes, Doriedson Ferreira"
+            }, 
+            {
+                "name": "Cordeiro, Renato Campello"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018214003654", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55f479a3cf58f16256a224b8", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2014.07.010"
+            }
+        ], 
+        "type": "article", 
+        "pages": "117--126"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Sedimentation on the continental rise west of the Antarctic Peninsula over the last three glacial cycles", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Pudsey, C.J"
+            }
+        ], 
+        "year": "2000", 
+        "number": "3-4", 
+        "volume": "167", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322700000396", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4327be138239d86852cf9", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0025-3227(00)00039-6"
+            }
+        ], 
+        "type": "article", 
+        "pages": "313--338"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Can slab melting be caused by flat subduction?", 
+        "journal": {
+            "name": "Geol"
+        }, 
+        "author": [
+            {
+                "name": "Gutscher, Marc-Andr\u00e9"
+            }, 
+            {
+                "name": "Maury, Ren\u00e9"
+            }, 
+            {
+                "name": "Eissen, Jean-Philippe"
+            }, 
+            {
+                "name": "Bourdon, Erwan"
+            }
+        ], 
+        "year": "2000", 
+        "number": "6", 
+        "volume": "28", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/0091-7613(2000)28<535:csmbcb>2.0.co;2", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57941c75cf58f1a36ac659c0", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/0091-7613(2000)28<535:csmbcb>2.0.co;2"
+            }
+        ], 
+        "type": "article", 
+        "pages": "535"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Evolution of the broadly rifted zone in southern Ethiopia through gravitational collapse and extension of dynamic topography", 
+        "journal": {
+            "name": "Tectonophysics"
+        }, 
+        "author": [
+            {
+                "name": "Emishaw, Luelseged"
+            }, 
+            {
+                "name": "La\u00f3-D\u00e1vila, Daniel A."
+            }, 
+            {
+                "name": "Abdelsalam, Mohamed G."
+            }, 
+            {
+                "name": "Atekwana, Estella A."
+            }, 
+            {
+                "name": "Gao, Stephen S."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0040195116306084", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "58c08603cf58f1575f3b1754", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.tecto.2016.12.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "213--226"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Deglacial dynamics of the Vestfjorden - Traenadjupet palaeo-ice stream, northern Norway", 
+        "journal": {
+            "name": "Boreas"
+        }, 
+        "author": [
+            {
+                "name": "Laberg, Jan Sverre"
+            }, 
+            {
+                "name": "Eilertsen, Raymond S."
+            }, 
+            {
+                "name": "Salomonsen, Gaute R."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/bor.12261", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5945adbbcf58f1932d3b422a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/bor.12261"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Effect of emersion/immersion cycles on the elemental and isotopic compositions of the organic matter from surface sediments of an intertidal mud bank (French Guiana): a preliminary study", 
+        "journal": {
+            "name": "Rapid Communications in Mass Spectrometry"
+        }, 
+        "author": [
+            {
+                "name": "Gontharet, Swanne"
+            }, 
+            {
+                "name": "Artigas, Luis Felipe"
+            }, 
+            {
+                "name": "Mathieu, Olivier"
+            }, 
+            {
+                "name": "Lev\u00eaque, Jean"
+            }, 
+            {
+                "name": "Milloux, Marie-Jeanne"
+            }, 
+            {
+                "name": "Caillaud, Jacinthe"
+            }, 
+            {
+                "name": "Philippe, Sylvie"
+            }, 
+            {
+                "name": "Lesourd, Sandric"
+            }, 
+            {
+                "name": "Gardel, Antoine"
+            }
+        ], 
+        "year": "2015", 
+        "number": "22", 
+        "volume": "29", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/rcm.7377", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "59b061f0cf58f16199e7cb3c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/rcm.7377"
+            }
+        ], 
+        "type": "article", 
+        "pages": "2147--2157"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Holocene land cover dynamics in the Curuai Floodplain inferred from lacustrine biomarkers", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Zocatelli, Renata"
+            }, 
+            {
+                "name": "Moreira-Turcq, Patricia"
+            }, 
+            {
+                "name": "Jacob, J\u00e9r\u00e9my"
+            }, 
+            {
+                "name": "Cordeiro, Renato Campello"
+            }, 
+            {
+                "name": "Boussafir, Mohammed"
+            }, 
+            {
+                "name": "Le Milbeau, Claude"
+            }, 
+            {
+                "name": "Bernardes, Marcelo"
+            }, 
+            {
+                "name": "Turcq, Bruno"
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018215007166", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57611c9ccf58f1300283840b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2015.11.046"
+            }
+        ], 
+        "type": "article", 
+        "pages": "237--248"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A 13\u2008200 year history of century to millennial-scale paleoenvironmental change magnetically recorded in the Palmer Deep, western Antarctic Peninsula", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Brachfeld, Stefanie A"
+            }, 
+            {
+                "name": "Banerjee, Subir K"
+            }, 
+            {
+                "name": "Guyodo, Yohan"
+            }, 
+            {
+                "name": "Acton, Gary D"
+            }
+        ], 
+        "year": "2002", 
+        "number": "3-4", 
+        "volume": "194", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X01005672", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54d7e376e138238471e800b0", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0012-821X(01)00567-2"
+            }
+        ], 
+        "type": "article", 
+        "pages": "311--326"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Population genetic consequences of geographic disjunction: a prairie plant isolated on Great Lakes alvars", 
+        "journal": {
+            "name": "Molecular Ecology"
+        }, 
+        "author": [
+            {
+                "name": "HAMILTON, J. A."
+            }, 
+            {
+                "name": "ECKERT, C. G."
+            }
+        ], 
+        "year": "2007", 
+        "number": "8", 
+        "volume": "16", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1365-294X.2007.03241.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57dbac79cf58f1a71e000437", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1365-294X.2007.03241.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1649--1660"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Quaternary erosion in the Sognefjord drainage basin, western Norway", 
+        "journal": {
+            "name": "Geomorphology"
+        }, 
+        "author": [
+            {
+                "name": "Nesje, A."
+            }, 
+            {
+                "name": "Dahl, S.O."
+            }, 
+            {
+                "name": "Valen, V."
+            }, 
+            {
+                "name": "\u00d8vstedal, J."
+            }
+        ], 
+        "year": "1992", 
+        "number": "6", 
+        "volume": "5", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/0169555X9290022G", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5517da11e1382394b500d933", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0169-555X(92)90022-G"
+            }
+        ], 
+        "type": "article", 
+        "pages": "511--520"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Radiocarbon Dates from the Oxford Ams System: Archaeometry Datelist 31", 
+        "journal": {
+            "name": "Archaeometry"
+        }, 
+        "author": [
+            {
+                "name": "RAMSEY, C. BRONK"
+            }, 
+            {
+                "name": "HIGHAM, T. F. G."
+            }, 
+            {
+                "name": "OWEN, D. C."
+            }, 
+            {
+                "name": "PIKE, A. W. G."
+            }, 
+            {
+                "name": "HEDGES, R. E. M."
+            }
+        ], 
+        "year": "2002", 
+        "number": "", 
+        "volume": "44", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1475-4754.2002.tb01101.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5783ccc2cf58f12510f2e34f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1475-4754.2002.tb01101.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--150"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Causes of dust size variability in central East Antarctica (Dome B): Atmospheric transport from expanded South American sources during\u00a0Marine Isotope Stage 2", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Delmonte, Barbara"
+            }, 
+            {
+                "name": "Paleari, Chiara Ileana"
+            }, 
+            {
+                "name": "And\u00f2, Sergio"
+            }, 
+            {
+                "name": "Garzanti, Eduardo"
+            }, 
+            {
+                "name": "Andersson, Per Sune"
+            }, 
+            {
+                "name": "Petit, Jean Robert"
+            }, 
+            {
+                "name": "Crosta, Xavier"
+            }, 
+            {
+                "name": "Narcisi, Biancamaria"
+            }, 
+            {
+                "name": "Baroni, Carlo"
+            }, 
+            {
+                "name": "Salvatore, Maria Cristina"
+            }, 
+            {
+                "name": "Baccolo, Giovanni"
+            }, 
+            {
+                "name": "Maggi, Valter"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "168", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0277379117302184", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2aa208cf58f17921dad7c1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2017.05.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "55--68"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "40Ar/39Ar ages and 40Ar* concentrations of fine-grained sediment fractions from North Atlantic Heinrich layers", 
+        "journal": {
+            "name": "Chemical Geology"
+        }, 
+        "author": [
+            {
+                "name": "Hemming, S.R"
+            }, 
+            {
+                "name": "Hall, C.M"
+            }, 
+            {
+                "name": "Biscaye, P.E"
+            }, 
+            {
+                "name": "Higgins, S.M"
+            }, 
+            {
+                "name": "Bond, G.C"
+            }, 
+            {
+                "name": "McManus, J.F"
+            }, 
+            {
+                "name": "Barber, D.C"
+            }, 
+            {
+                "name": "Andrews, J.T"
+            }, 
+            {
+                "name": "Broecker, W.S"
+            }
+        ], 
+        "year": "2002", 
+        "number": "2-4", 
+        "volume": "182", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0009254101003424", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54c07e19e1382389c54c37fc", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0009-2541(01)00342-4"
+            }
+        ], 
+        "type": "article", 
+        "pages": "583--603"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Revisiting atmospheric dust export to the Southern Hemisphere ocean: Biogeochemical implications", 
+        "journal": {
+            "name": "Global Biogeochemical Cycles"
+        }, 
+        "author": [
+            {
+                "name": "Wagener, Thibaut"
+            }, 
+            {
+                "name": "Guieu, C\u00e9cile"
+            }, 
+            {
+                "name": "Losno, R\u00e9mi"
+            }, 
+            {
+                "name": "Bonnet, Sophie"
+            }, 
+            {
+                "name": "Mahowald, Natalie"
+            }
+        ], 
+        "year": "2008", 
+        "number": "2", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2007GB002984", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56e4521dcf58f106e9934073", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2007GB002984"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Structure and hydrogeological functioning of an insular tropical humid andesitic volcanic watershed: A multi-disciplinary experimental approach", 
+        "journal": {
+            "name": "Journal of Hydrology"
+        }, 
+        "author": [
+            {
+                "name": "Charlier, Jean-Baptiste"
+            }, 
+            {
+                "name": "Lachassagne, Patrick"
+            }, 
+            {
+                "name": "Ladouche, Bernard"
+            }, 
+            {
+                "name": "Cattan, Philippe"
+            }, 
+            {
+                "name": "Moussa, Roger"
+            }, 
+            {
+                "name": "Voltz, Marc"
+            }
+        ], 
+        "year": "2011", 
+        "number": "", 
+        "volume": "3-4", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0022169410006074", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54ff4e85e13823a766aa73e4", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jhydrol.2010.10.006"
+            }
+        ], 
+        "type": "article", 
+        "pages": "155--170"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Mass-transport deposits in the northern Ecuador subduction trench: Result of frontal erosion over multiple seismic cycles", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Ratzov, Gueorgui"
+            }, 
+            {
+                "name": "Collot, Jean-Yves"
+            }, 
+            {
+                "name": "Sosson, Marc"
+            }, 
+            {
+                "name": "Migeon, Sebastien"
+            }
+        ], 
+        "year": "2010", 
+        "number": "", 
+        "volume": "1-2", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X10003006", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54fcbe5ee138239936c6de0e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.epsl.2010.04.048"
+            }
+        ], 
+        "type": "article", 
+        "pages": "89--102"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Combining Vis\u2013NIR hyperspectral imagery and legacy measured soil profiles to map subsurface soil properties in a Mediterranean area (Cap-Bon, Tunisia)", 
+        "journal": {
+            "name": "Geoderma"
+        }, 
+        "author": [
+            {
+                "name": "Lagacherie, Philippe"
+            }, 
+            {
+                "name": "Sneep, Anne-Ruth"
+            }, 
+            {
+                "name": "Gomez, C\u00e9cile"
+            }, 
+            {
+                "name": "Bacha, Sinan"
+            }, 
+            {
+                "name": "Coulouma, Guillaume"
+            }, 
+            {
+                "name": "Hamrouni, Mohamed H\u00e9di"
+            }, 
+            {
+                "name": "Mekki, Insaf"
+            }
+        ], 
+        "year": "2013", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S001670611300205X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5514e88ee1382394b500ccd2", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.geoderma.2013.06.005"
+            }
+        ], 
+        "type": "article", 
+        "pages": "168--176"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Characterizing the sediment provenance of East Antarctica's weak underbelly: The Aurora and Wilkes sub-glacial basins", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "Pierce, Elizabeth L."
+            }, 
+            {
+                "name": "Williams, Trevor"
+            }, 
+            {
+                "name": "van de Flierdt, Tina"
+            }, 
+            {
+                "name": "Hemming, Sidney R."
+            }, 
+            {
+                "name": "Goldstein, Steven L."
+            }, 
+            {
+                "name": "Brachfeld, Stefanie A."
+            }
+        ], 
+        "year": "2011", 
+        "number": "4", 
+        "volume": "26", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2011PA002127", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "568f0618cf58f11e8bd699f1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2011PA002127"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Paleoclimate changes during the last 100,000 yr from a record in the Brazilian Atlantic rainforest region and interhemispheric comparison", 
+        "journal": {
+            "name": "Quaternary Research"
+        }, 
+        "author": [
+            {
+                "name": "Ledru, M.-P."
+            }, 
+            {
+                "name": "Rousseau, D.-D."
+            }, 
+            {
+                "name": "Cruz, F.W."
+            }, 
+            {
+                "name": "Riccomini, C."
+            }, 
+            {
+                "name": "Karmann, I."
+            }, 
+            {
+                "name": "Martin, L."
+            }
+        ], 
+        "year": "2005", 
+        "number": "3", 
+        "volume": "64", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0033589405001122", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43266e138239d8684f0fb", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.yqres.2005.08.006"
+            }
+        ], 
+        "type": "article", 
+        "pages": "444--450"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Emplacement and transformations of volcanic debris avalanches-A case study at El Misti volcano, Peru", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Bernard, Karine"
+            }, 
+            {
+                "name": "Thouret, Jean-Claude"
+            }, 
+            {
+                "name": "van Wyk de Vries, Benjamin"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "340", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0377027316302542", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2e1f2acf58f148d927c2d8", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2017.04.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "68--91"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "The Pleistocene to recent geological development of the Ormen Lange area", 
+        "journal": {
+            "name": "Marine and Petroleum Geology"
+        }, 
+        "author": [
+            {
+                "name": "Berg, K."
+            }, 
+            {
+                "name": "Solheim, A."
+            }, 
+            {
+                "name": "Bryn, P."
+            }
+        ], 
+        "year": "2005", 
+        "number": "1-2", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S026481720400176X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4327ae138239d8685288b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.marpetgeo.2004.10.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "45--56"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Marine ethnobiology a rather neglected area, which can provide an important contribution to ocean and coastal management", 
+        "journal": {
+            "name": "Ocean & Coastal Management"
+        }, 
+        "author": [
+            {
+                "name": "Narchi, Nemer E."
+            }, 
+            {
+                "name": "Cornier, Samuel"
+            }, 
+            {
+                "name": "Canu, Donata Melaku"
+            }, 
+            {
+                "name": "Aguilar-Rosas, Luis E."
+            }, 
+            {
+                "name": "Bender, Mariana G."
+            }, 
+            {
+                "name": "Jacquelin, Christian"
+            }, 
+            {
+                "name": "Thiba, Marion"
+            }, 
+            {
+                "name": "Moura, Gustavo G.M."
+            }, 
+            {
+                "name": "de Wit, Rutger"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0964569113002275", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57180fddcf58f19ae9790f98", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.ocecoaman.2013.09.014"
+            }
+        ], 
+        "type": "article", 
+        "pages": "117--126"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "COLONIZATION, DISPERSAL, AND HYBRIDIZATION INFLUENCE PHYLOGEOGRAPHY O NORTH ATLANTIC SEA URCHINS (STRONGYLOCHNTROTUS DROEBACHIENSIS)", 
+        "journal": {
+            "name": "Evolution"
+        }, 
+        "author": [
+            {
+                "name": "Addison, Jason A."
+            }, 
+            {
+                "name": "Hart, Michael W."
+            }
+        ], 
+        "year": "2005", 
+        "number": "3", 
+        "volume": "59", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.0014-3820.2005.tb01013.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5711c16acf58f1befd9bdad1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.0014-3820.2005.tb01013.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "532--543"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Distributed hydrologic and hydraulic modelling with radar rainfall input: Reconstruction of the 8\u20139 September 2002 catastrophic flood event in the Gard region, France", 
+        "journal": {
+            "name": "Advances in Water Resources"
+        }, 
+        "author": [
+            {
+                "name": "Bonnifait, Laurent"
+            }, 
+            {
+                "name": "Delrieu, Guy"
+            }, 
+            {
+                "name": "Lay, Matthieu Le"
+            }, 
+            {
+                "name": "Boudevillain, Brice"
+            }, 
+            {
+                "name": "Masson, Arielle"
+            }, 
+            {
+                "name": "Belleudy, Philippe"
+            }, 
+            {
+                "name": "Gaume, Eric"
+            }, 
+            {
+                "name": "Saulnier, Georges-Marie"
+            }
+        ], 
+        "year": "2009", 
+        "number": "7", 
+        "volume": "32", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0309170809000554", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "559cf49ee13823163fc64d2b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.advwatres.2009.03.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1077--1089"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Late Glacial and Holocene paleoceanography in the Skagerrak from high-resolution grain size records", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Gyllencreutz, Richard"
+            }
+        ], 
+        "year": "2005", 
+        "number": "3-4", 
+        "volume": "222", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018205001549", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324ae138239d8684a481", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2005.03.025"
+            }
+        ], 
+        "type": "article", 
+        "pages": "344--369"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Ocean forcing of Ice Sheet retreat in central west Greenland from LGM to the early Holocene", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Jennings, Anne E."
+            }, 
+            {
+                "name": "Andrews, John T."
+            }, 
+            {
+                "name": "\u00d3 Cofaigh, Colm"
+            }, 
+            {
+                "name": "Onge, Guillaume St."
+            }, 
+            {
+                "name": "Sheldon, Christina"
+            }, 
+            {
+                "name": "Belt, Simon T."
+            }, 
+            {
+                "name": "Cabedo-Sanz, Patricia"
+            }, 
+            {
+                "name": "Hillaire-Marcel, Claude"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "472", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X17302613", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "598b00b3cf58f1a003588a23", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.epsl.2017.05.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--13"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Mining and Other Threats to the New Caledonia Biodiversity Hotspot", 
+        "journal": {
+            "name": "Conservation Biology"
+        }, 
+        "author": [
+            {
+                "name": "PASCAL, MICHEL"
+            }, 
+            {
+                "name": "DE FORGES, BERTRAND RICHER"
+            }, 
+            {
+                "name": "LE GUYADER, HERV\u00c9"
+            }, 
+            {
+                "name": "SIMBERLOFF, DANIEL"
+            }
+        ], 
+        "year": "2008", 
+        "number": "2", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1523-1739.2008.00889.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "571bfafccf58f169d9009209", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1523-1739.2008.00889.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "498--499"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Reply to the comment on \u201cCarbonate deposition and diagenesis in evaporitic environments: The evaporative and sulphur-bearing limestones during the settlement of the Messinian Salinity Crisis in Sicily and Calabria\u201d by Caruso et al., 2015. Palaeo3, 429, 136\u2013162", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Caruso, Antonio"
+            }, 
+            {
+                "name": "Pierre, Catherine"
+            }, 
+            {
+                "name": "Blanc-Valleron, Marie Madeleine"
+            }, 
+            {
+                "name": "Rouchy, Jean Marie"
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018216300591", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57613b14cf58f1379a29518e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2016.04.005"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Structure and evolution of an active resurgent dome evidenced by geophysical investigations: the Yenkahe dome-Yasur volcano system (Siwi caldera, Vanuatu)", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Brothelande, E."
+            }, 
+            {
+                "name": "L\u00e9nat, J.-F."
+            }, 
+            {
+                "name": "Chaput, M."
+            }, 
+            {
+                "name": "Gailler, L."
+            }, 
+            {
+                "name": "Finizola, A."
+            }, 
+            {
+                "name": "Dumont, S."
+            }, 
+            {
+                "name": "Peltier, A."
+            }, 
+            {
+                "name": "Bach\u00e8lery, P."
+            }, 
+            {
+                "name": "Barde-Cabusson, S."
+            }, 
+            {
+                "name": "Byrdina, S."
+            }, 
+            {
+                "name": "Menny, P."
+            }, 
+            {
+                "name": "Colonge, J."
+            }, 
+            {
+                "name": "Douillet, G.A."
+            }, 
+            {
+                "name": "Letort, J."
+            }, 
+            {
+                "name": "Letourneur, L."
+            }, 
+            {
+                "name": "Merle, O."
+            }, 
+            {
+                "name": "Di Gangi, F."
+            }, 
+            {
+                "name": "Nakedau, D."
+            }, 
+            {
+                "name": "Garaebiti, E."
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0377027315002772", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55f3cf94cf58f16256a22047", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2015.08.021"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Deep-sea benthic response to rapid climatic oscillations of the last glacial cycle in the SE Bay of Biscay", 
+        "journal": {
+            "name": "Journal of Sea Research"
+        }, 
+        "author": [
+            {
+                "name": "Rodriguez-Lazaro, J."
+            }, 
+            {
+                "name": "Pascual, A."
+            }, 
+            {
+                "name": "Cacho, I."
+            }, 
+            {
+                "name": "Varela, Z."
+            }, 
+            {
+                "name": "Pena, L.D."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "130", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S1385110116302969", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a39f596cf58f133f01a19da", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.seares.2017.06.002"
+            }
+        ], 
+        "type": "article", 
+        "pages": "49--72"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Geology of El Misti volcano near the city of Arequipa, Peru", 
+        "journal": {
+            "name": "Geological Society of America Bulletin"
+        }, 
+        "author": [
+            {
+                "name": "Thouret, Jean-Claude"
+            }, 
+            {
+                "name": "Finizola, Anthony"
+            }, 
+            {
+                "name": "Fornari, Michel"
+            }, 
+            {
+                "name": "Legeley-Padovani, Annick"
+            }, 
+            {
+                "name": "Suni, Jaime"
+            }, 
+            {
+                "name": "Frechen, Manfred"
+            }
+        ], 
+        "year": "2001", 
+        "number": "12", 
+        "volume": "113", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/0016-7606(2001)113<1593:goemvn>2.0.co;2", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5795d64ccf58f152d72ef9ed", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/0016-7606(2001)113<1593:goemvn>2.0.co;2"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1593--1610"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Effects of current and historic habitat fragmentation on the genetic structure of the sand goby Pomatoschistus minutus (Osteichthys, Gobiidae)", 
+        "journal": {
+            "name": "Biological Journal of the Linnean Society"
+        }, 
+        "author": [
+            {
+                "name": "BOISSIN, EMILIE"
+            }, 
+            {
+                "name": "HOAREAU, THIERRY BERNARD"
+            }, 
+            {
+                "name": "BERREBI, PATRICK"
+            }
+        ], 
+        "year": "2011", 
+        "number": "1", 
+        "volume": "102", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1095-8312.2010.01565.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57913edecf58f171ad974470", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1095-8312.2010.01565.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "175--198"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "The Magnesian Series of the Northwestern States", 
+        "journal": {
+            "name": "Geological Society of America Bulletin"
+        }, 
+        "author": [
+            {
+                "name": "Hall, C. W."
+            }, 
+            {
+                "name": "Sardeson, F. W."
+            }
+        ], 
+        "year": "1894", 
+        "number": "1", 
+        "volume": "6", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/gsab-6-167", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "577570e8cf58f10b82802595", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/gsab-6-167"
+            }
+        ], 
+        "type": "article", 
+        "pages": "167--198"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A Holocene lacustrine record in the central North Atlantic: proxies for volcanic activity, short-term NAO mode variability, and long-term precipitation changes", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Bj\u00f6rck, Svante"
+            }, 
+            {
+                "name": "Rittenour, Tammy"
+            }, 
+            {
+                "name": "Ros\u00e9n, Peter"
+            }, 
+            {
+                "name": "Fran\u00e7a, Zilda"
+            }, 
+            {
+                "name": "M\u00f6ller, Per"
+            }, 
+            {
+                "name": "Snowball, Ian"
+            }, 
+            {
+                "name": "Wasteg\u00e5rd, Stefan"
+            }, 
+            {
+                "name": "Bennike, Ole"
+            }, 
+            {
+                "name": "Kromer, Bernd"
+            }
+        ], 
+        "year": "2006", 
+        "number": "", 
+        "volume": "1-2", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0277379105002647", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5505939be1382326932d8dc2", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2005.08.008"
+            }
+        ], 
+        "type": "article", 
+        "pages": "9--32"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Holocene variability in sea surface temperature and sea ice extent in the northern Bering Sea: A multiple biomarker study", 
+        "journal": {
+            "name": "Organic Geochemistry"
+        }, 
+        "author": [
+            {
+                "name": "Ruan, Jiaping"
+            }, 
+            {
+                "name": "Huang, Yuanhui"
+            }, 
+            {
+                "name": "Shi, Xuefa"
+            }, 
+            {
+                "name": "Liu, Yanguang"
+            }, 
+            {
+                "name": "Xiao, Wenjie"
+            }, 
+            {
+                "name": "Xu, Yunping"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "113", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0146638017302371", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2bbb7dcf58f12196552372", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.orggeochem.2017.08.006"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--9"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "High resolution Secondary Ionisation Mass Spectrometry (SIMS) \u03b418O analyses of Hulu Cave speleothem at the time of Heinrich Event 1", 
+        "journal": {
+            "name": "Chemical Geology"
+        }, 
+        "author": [
+            {
+                "name": "Treble, P.C."
+            }, 
+            {
+                "name": "Schmitt, A.K."
+            }, 
+            {
+                "name": "Edwards, R.L."
+            }, 
+            {
+                "name": "McKeegan, K.D."
+            }, 
+            {
+                "name": "Harrison, T.M."
+            }, 
+            {
+                "name": "Grove, M."
+            }, 
+            {
+                "name": "Cheng, H."
+            }, 
+            {
+                "name": "Wang, Y.J."
+            }
+        ], 
+        "year": "2007", 
+        "number": "3-4", 
+        "volume": "238", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0009254106005286", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54c026eee1382389c54c358f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.chemgeo.2006.11.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "197--212"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "The Chimborazo sector collapse and debris avalanche: Deposit characteristics as evidence of emplacement mechanisms", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Bernard, Benjamin"
+            }, 
+            {
+                "name": "van Wyk de Vries, Benjamin"
+            }, 
+            {
+                "name": "Barba, Diego"
+            }, 
+            {
+                "name": "Leyrit, Herv\u00e9"
+            }, 
+            {
+                "name": "Robin, Claude"
+            }, 
+            {
+                "name": "Alcaraz, Samantha"
+            }, 
+            {
+                "name": "Samaniego, Pablo"
+            }
+        ], 
+        "year": "2008", 
+        "number": "1", 
+        "volume": "176", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0377027308001054", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5545035ce138233dfd7d3484", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2008.03.012"
+            }
+        ], 
+        "type": "article", 
+        "pages": "36--43"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Climate and vegetation: Simulating the African humid period", 
+        "journal": {
+            "name": "Comptes Rendus Geoscience"
+        }, 
+        "author": [
+            {
+                "name": "H\u00e9ly, Christelle"
+            }, 
+            {
+                "name": "Braconnot, Pascale"
+            }, 
+            {
+                "name": "Watrin, Julie"
+            }, 
+            {
+                "name": "Zheng, Weipeng"
+            }
+        ], 
+        "year": "2009", 
+        "number": "", 
+        "volume": "8-9", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1631071309001394", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54f4e794e13823054496a19c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.crte.2009.07.002"
+            }
+        ], 
+        "type": "article", 
+        "pages": "671--688"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Abrupt change of sediment records in the southern South China Sea during the last glacial period and its environment significance", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Liu, Jianguo"
+            }, 
+            {
+                "name": "Chen, Muhong"
+            }, 
+            {
+                "name": "Xiang, Rong"
+            }, 
+            {
+                "name": "Lu, Jun"
+            }, 
+            {
+                "name": "Zhang, Lanlan"
+            }
+        ], 
+        "year": "2011", 
+        "number": "1", 
+        "volume": "237", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618210001606", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57433bc5cf58f11e477a3bbe", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2010.04.018"
+            }
+        ], 
+        "type": "article", 
+        "pages": "109--122"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Late Quaternary incision rates in the V\u00e9subie catchment area (Southern French Alps) from in situ-produced 36 Cl cosmogenic nuclide dating: Tectonic and climatic implications", 
+        "journal": {
+            "name": "Journal of Geophysical Research: Earth Surface"
+        }, 
+        "author": [
+            {
+                "name": "Saillard, Marianne"
+            }, 
+            {
+                "name": "Petit, Carole"
+            }, 
+            {
+                "name": "Rolland, Yann"
+            }, 
+            {
+                "name": "Braucher, R\u00e9gis"
+            }, 
+            {
+                "name": "Bourl\u00e8s, Didier L."
+            }, 
+            {
+                "name": "Zerathe, Swann"
+            }, 
+            {
+                "name": "Revel, Marie"
+            }, 
+            {
+                "name": "Jourdon, Anthony"
+            }
+        ], 
+        "year": "2014", 
+        "number": "5", 
+        "volume": "119", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/2013JF002985", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "580267becf58f141fee974be", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/2013JF002985"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1121--1135"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Differences in 10Be concentration between fluvial sand and pebbles in Andean western catchments of Chile and Peru", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Carretier, S\u00e9bastien"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618212008579", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "570b38b3cf58f17b87be1e83", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2012.07.359"
+            }
+        ], 
+        "type": "article", 
+        "pages": "82"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Cosmogenic exposure age constraints on deglaciation and flow behaviour of a marine-based ice stream in western Scotland, 21\u201316\u00a0ka", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Small, David"
+            }, 
+            {
+                "name": "Benetti, Sara"
+            }, 
+            {
+                "name": "Dove, Dayton"
+            }, 
+            {
+                "name": "Ballantyne, Colin K."
+            }, 
+            {
+                "name": "Fabel, Derek"
+            }, 
+            {
+                "name": "Clark, Chris D."
+            }, 
+            {
+                "name": "Gheorghiu, Delia M."
+            }, 
+            {
+                "name": "Newall, Jennifer"
+            }, 
+            {
+                "name": "Xu, Sheng"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "167", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0277379117303499", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2aa210cf58f17921dad7cd", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2017.04.021"
+            }
+        ], 
+        "type": "article", 
+        "pages": "30--46"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Spatial and temporal characteristics of Neogene palynoflora in China and its implication for the spread of steppe vegetation", 
+        "journal": {
+            "name": "Journal of Arid Environments"
+        }, 
+        "author": [
+            {
+                "name": "Jiang, H."
+            }, 
+            {
+                "name": "Ding, Z."
+            }
+        ], 
+        "year": "2009", 
+        "number": "9", 
+        "volume": "73", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0140196309000974", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5520852de138236e51a9a42a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jaridenv.2009.03.011"
+            }
+        ], 
+        "type": "article", 
+        "pages": "765--772"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Climate variability and storm impacts as major drivers for human coastal marsh withdrawal over the Neolithic period (Southern Brittany, NW France)", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Fernane, A."
+            }, 
+            {
+                "name": "Penaud, A."
+            }, 
+            {
+                "name": "Gandouin, E."
+            }, 
+            {
+                "name": "Goslin, J."
+            }, 
+            {
+                "name": "Van Vliet-Lano\u00eb, B."
+            }, 
+            {
+                "name": "Vidal, M."
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S003101821500293X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55f4953dcf58f16256a2258c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2015.05.029"
+            }
+        ], 
+        "type": "article", 
+        "pages": "136--144"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Mechanisms of abrupt climate change of the last glacial period", 
+        "journal": {
+            "name": "Reviews of Geophysics"
+        }, 
+        "author": [
+            {
+                "name": "Clement, Amy C."
+            }, 
+            {
+                "name": "Peterson, Larry C."
+            }
+        ], 
+        "year": "2008", 
+        "number": "4", 
+        "volume": "46", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2006RG000204", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56f94268cf58f18c81cef402", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2006RG000204"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Physiography, surficial sediments and Quaternary stratigraphy of the inner continental shelf and nearshore region of the Gulf of Maine", 
+        "journal": {
+            "name": "Continental Shelf Research"
+        }, 
+        "author": [
+            {
+                "name": "Kelley, Joseph T."
+            }, 
+            {
+                "name": "Belknap, Daniel F."
+            }
+        ], 
+        "year": "1991", 
+        "number": "8-10", 
+        "volume": "11", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/027843439190101B", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "555cca91e13823b845fe42c5", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0278-4343(91)90101-B"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1265--1283"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Evolution of Early Cenozoic marine temperatures", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "Zachos, James C."
+            }, 
+            {
+                "name": "Stott, Lowell D."
+            }, 
+            {
+                "name": "Lohmann, Kyger C."
+            }
+        ], 
+        "year": "1994", 
+        "number": "2", 
+        "volume": "9", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/93PA03266", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56ba99bacf58f18714edf475", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/93PA03266"
+            }
+        ], 
+        "type": "article", 
+        "pages": "353--387"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Configuration, history and impact of the Norwegian Channel Ice Stream", 
+        "journal": {
+            "name": "Boreas"
+        }, 
+        "author": [
+            {
+                "name": "Sejrup, Hans Petter"
+            }, 
+            {
+                "name": "Larsen, Eiliv"
+            }, 
+            {
+                "name": "Haflidason, Haflidi"
+            }, 
+            {
+                "name": "Berstad, Ida M."
+            }, 
+            {
+                "name": "Hjelstuen, Berit O."
+            }, 
+            {
+                "name": "Jonsdottir, Hafdis E."
+            }, 
+            {
+                "name": "King, Edward L."
+            }, 
+            {
+                "name": "Landvik, Jon"
+            }, 
+            {
+                "name": "Longva, Oddvar"
+            }, 
+            {
+                "name": "Nyg\u00e5rd, Atle"
+            }, 
+            {
+                "name": "Ottesen, Dag"
+            }, 
+            {
+                "name": "Raunholm, St\u00e5le"
+            }, 
+            {
+                "name": "Rise, Leif"
+            }, 
+            {
+                "name": "Stalsberg, Knut"
+            }
+        ], 
+        "year": "2003", 
+        "number": "1", 
+        "volume": "32", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1080/03009480310001029", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "577e9400cf58f187f1074172", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1080/03009480310001029"
+            }
+        ], 
+        "type": "article", 
+        "pages": "18--36"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Sedimentary environmental changes and millennial climatic variability in a tropical shallow lake (Lake Ossa, Cameroon) during the Holocene", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Giresse, Pierre"
+            }, 
+            {
+                "name": "Maley, Jean"
+            }, 
+            {
+                "name": "Kossoni, Alice"
+            }
+        ], 
+        "year": "2005", 
+        "number": "3-4", 
+        "volume": "218", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018204006534", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324ae138239d8684a451", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2004.12.018"
+            }
+        ], 
+        "type": "article", 
+        "pages": "257--285"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Holocene climate in the subarctic fjord Malangen, northern Norway: a multi-proxy study", 
+        "journal": {
+            "name": "Boreas"
+        }, 
+        "author": [
+            {
+                "name": "HALD, MORTEN"
+            }, 
+            {
+                "name": "HUSUM, KATRINE"
+            }, 
+            {
+                "name": "VORREN, TORE O."
+            }, 
+            {
+                "name": "GR\u00d8SFJELD, KARI"
+            }, 
+            {
+                "name": "JENSEN, HENNING B."
+            }, 
+            {
+                "name": "SHARAPOVA, ALLA"
+            }
+        ], 
+        "year": "2003", 
+        "number": "4", 
+        "volume": "32", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/j.1502-3885.2003.tb01234.x", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56818599cf58f1ba274d45fa", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/j.1502-3885.2003.tb01234.x"
+            }
+        ], 
+        "type": "article", 
+        "pages": "543--559"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Centennial-scale variability of the British Ice Sheet: Implications for climate forcing and Atlantic meridional overturning circulation during the last deglaciation", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "Knutz, Paul C."
+            }, 
+            {
+                "name": "Zahn, Rainer"
+            }, 
+            {
+                "name": "Hall, Ian R."
+            }
+        ], 
+        "year": "2007", 
+        "number": "1", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2006PA001298", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "568ee52ecf58f11e8bd697ae", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2006PA001298"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Geomagnetic moment variation and paleomagnetic excursions since 400 kyr BP: a stacked record from sedimentary sequences of the Portuguese margin", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Thouveny, Nicolas"
+            }, 
+            {
+                "name": "Carcaillet, Julien"
+            }, 
+            {
+                "name": "Moreno, Eva"
+            }, 
+            {
+                "name": "Leduc, Guillaume"
+            }, 
+            {
+                "name": "N\u00e9rini, David"
+            }
+        ], 
+        "year": "2004", 
+        "number": "3-4", 
+        "volume": "219", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X03007015", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54e4965be138237cc914fd99", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0012-821X(03)00701-5"
+            }
+        ], 
+        "type": "article", 
+        "pages": "377--396"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Patterns, processes, and impacts of abrupt climate change in a warm world: the past 11,700 years", 
+        "journal": {
+            "name": "Wiley Interdisciplinary Reviews: Climate Change"
+        }, 
+        "author": [
+            {
+                "name": "Shuman, Bryan"
+            }
+        ], 
+        "year": "2012", 
+        "number": "1", 
+        "volume": "3", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/wcc.152", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57f487b8cf58f13343eb4941", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/wcc.152"
+            }
+        ], 
+        "type": "article", 
+        "pages": "19--43"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Assessment study of lichenometric methods for dating surfaces", 
+        "journal": {
+            "name": "Geomorphology"
+        }, 
+        "author": [
+            {
+                "name": "Jomelli, Vincent"
+            }, 
+            {
+                "name": "Grancher, Delphine"
+            }, 
+            {
+                "name": "Naveau, Philippe"
+            }, 
+            {
+                "name": "Cooley, Daniel"
+            }, 
+            {
+                "name": "Brunstein, Daniel"
+            }
+        ], 
+        "year": "2007", 
+        "number": "1-2", 
+        "volume": "86", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0169555X06003874", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55192535e1382394b500de9a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.geomorph.2006.08.010"
+            }
+        ], 
+        "type": "article", 
+        "pages": "131--143"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Late Cenozoic oscillations of Antarctic ice sheets revealed by provenance of basement clasts and grain detrital modes in ANDRILL core AND-1B", 
+        "journal": {
+            "name": "Global and Planetary Change"
+        }, 
+        "author": [
+            {
+                "name": "Talarico, F.M."
+            }, 
+            {
+                "name": "McKay, R.M."
+            }, 
+            {
+                "name": "Powell, R.D."
+            }, 
+            {
+                "name": "Sandroni, S."
+            }, 
+            {
+                "name": "Naish, T."
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0921818109002033", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55c98c39cf58f1a8110ba9aa", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.gloplacha.2009.12.002"
+            }
+        ], 
+        "type": "article", 
+        "pages": "23--40"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Evolution of Irruputuncu volcano, Central Andes, Northern Chile", 
+        "journal": {
+            "name": "Journal of South American Earth Sciences"
+        }, 
+        "author": [
+            {
+                "name": "Rodr\u00edguez, I."
+            }, 
+            {
+                "name": "Roche, O."
+            }, 
+            {
+                "name": "Moune, S."
+            }, 
+            {
+                "name": "Aguilera, F."
+            }, 
+            {
+                "name": "Campos, E."
+            }, 
+            {
+                "name": "Pizarro, M."
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0895981115300493", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55f3a8e4cf58f16256a21f45", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jsames.2015.08.012"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Subduction of seafloor asperities revealed by a detailed stratigraphic analysis of the active margin shelf sediments of Central Ecuador", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Proust, Jean No\u00ebl"
+            }, 
+            {
+                "name": "Martillo, Carlos"
+            }, 
+            {
+                "name": "Michaud, Fran\u00e7ois"
+            }, 
+            {
+                "name": "Collot, Jean Yves"
+            }, 
+            {
+                "name": "Dauteuil, Olivier"
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322716300329", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "58bb713fcf58f181dfa4dcab", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.margeo.2016.03.014"
+            }
+        ], 
+        "type": "article", 
+        "pages": "345--362"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Ocean-atmosphere interactions as drivers of mid-to-late Holocene rapid climate changes: Evidence from high-resolution stalagmite records at DeSoto Caverns, Southeast USA", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Aharon, Paul"
+            }, 
+            {
+                "name": "Dhungana, Rajesh"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "170", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0277379116305157", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2a9b0dcf58f1766a89f24c", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2017.06.023"
+            }
+        ], 
+        "type": "article", 
+        "pages": "69--81"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "(228Ra/226Ra) ratios in hydrothermal carbonates and the origin of radium in CO2-rich waters of the Lod\u00e8ve Basin (South of France)", 
+        "journal": {
+            "name": "Chemical Geology"
+        }, 
+        "author": [
+            {
+                "name": "Condomines, Michel"
+            }, 
+            {
+                "name": "Lloret, Emily"
+            }, 
+            {
+                "name": "Seidel, Jean-Luc"
+            }, 
+            {
+                "name": "Lopez, Michel"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0009254114000904", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54e7d1eee138237cc9150b33", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.chemgeo.2014.02.008"
+            }
+        ], 
+        "type": "article", 
+        "pages": "46--53"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Oceanic pollen transport and pollen:dinocyst ratios as markers of late Cenozoic sea level change and sediment transport", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "McCarthy, Francine M.G."
+            }, 
+            {
+                "name": "Mudie, Peta J."
+            }
+        ], 
+        "year": "1998", 
+        "number": "1-4", 
+        "volume": "138", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018297001351", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43248e138239d86849d49", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0031-0182(97)00135-1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "187--206"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Persistent intermediate water warming during cold stadials in the southeastern Nordic seas during the past 65 k.y.", 
+        "journal": {
+            "name": "Geology"
+        }, 
+        "author": [
+            {
+                "name": "Ezat, M. M."
+            }, 
+            {
+                "name": "Rasmussen, T. L."
+            }, 
+            {
+                "name": "Groeneveld, J."
+            }
+        ], 
+        "year": "2014", 
+        "number": "8", 
+        "volume": "42", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/g35579.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57a2ab0acf58f16311790040", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/g35579.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "663--666"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Driftwood dropstones in Middle Miocene Climate Optimum shallow marine strata (Calvert Cliffs, Maryland Coastal Plain): Erratic pebbles no certain proxy for cold climate", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Vogt, Peter R."
+            }, 
+            {
+                "name": "Parrish, Mary"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018212000594", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324de138239d8684aaf7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2012.01.035"
+            }
+        ], 
+        "type": "article", 
+        "pages": "100--109"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "High resolution OSL dating back to MIS 5e in the central Sea of Okhotsk", 
+        "journal": {
+            "name": "Quaternary Geochronology"
+        }, 
+        "author": [
+            {
+                "name": "Sugisaki, Saiko"
+            }, 
+            {
+                "name": "Buylaert, Jan-Pieter"
+            }, 
+            {
+                "name": "Murray, Andrew"
+            }, 
+            {
+                "name": "Tsukamoto, Sumiko"
+            }, 
+            {
+                "name": "Nogi, Yoshifumi"
+            }, 
+            {
+                "name": "Miura, Hideki"
+            }, 
+            {
+                "name": "Sakai, Saburo"
+            }, 
+            {
+                "name": "Iijima, Koichi"
+            }, 
+            {
+                "name": "Sakamoto, Tatsuhiko"
+            }
+        ], 
+        "year": "2010", 
+        "number": "", 
+        "volume": "2-3", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1871101409000223", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54fd7873e138239936c6e332", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quageo.2009.01.008"
+            }
+        ], 
+        "type": "article", 
+        "pages": "293--298"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Late Miocene high and rapid surface uplift and its erosional response in the Andes of central Chile (33\u00b0-35\u00b0S)", 
+        "journal": {
+            "name": "Tectonics"
+        }, 
+        "author": [
+            {
+                "name": "Far\u00edas, Marcelo"
+            }, 
+            {
+                "name": "Charrier, Reynaldo"
+            }, 
+            {
+                "name": "Carretier, S\u00e9bastien"
+            }, 
+            {
+                "name": "Martinod, Joseph"
+            }, 
+            {
+                "name": "Fock, Andr\u00e9s"
+            }, 
+            {
+                "name": "Campbell, David"
+            }, 
+            {
+                "name": "C\u00e1ceres, Joaqu\u00edn"
+            }, 
+            {
+                "name": "Comte, Diana"
+            }
+        ], 
+        "year": "2008", 
+        "number": "1", 
+        "volume": "27", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2006TC002046", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56e3805dcf58f17d01ce2b9e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2006TC002046"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Modelling time differentiated sediment accumulation of alpine catchments: a case study from the Hasli Valley, Switzerland", 
+        "journal": {
+            "name": "Quaternary International"
+        }, 
+        "author": [
+            {
+                "name": "Carvalho, Filipe"
+            }
+        ], 
+        "year": "2012", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1040618212008609", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "579cb560cf58f1089f2ab61b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quaint.2012.07.362"
+            }
+        ], 
+        "type": "article", 
+        "pages": "82"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Alluvial responses to the changing Earth system", 
+        "journal": {
+            "name": "Earth Surface Processes and Landforms"
+        }, 
+        "author": [
+            {
+                "name": "Macklin, Mark G."
+            }, 
+            {
+                "name": "Lewin, John"
+            }
+        ], 
+        "year": "2008", 
+        "number": "9", 
+        "volume": "33", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/esp.1714", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56ac670bcf58f19442535131", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/esp.1714"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1374--1395"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Cenozoic uplift of Fennoscandia inferred from a study of the mid-Norwegian margin", 
+        "journal": {
+            "name": "Global and Planetary Change"
+        }, 
+        "author": [
+            {
+                "name": "Stuevold, Liv M."
+            }, 
+            {
+                "name": "Eldholm, Olav"
+            }
+        ], 
+        "year": "1996", 
+        "number": "1", 
+        "volume": "12", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/0921818195000283", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55c7dc80cf58f1a8110ba2a1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0921-8181(95)00028-3"
+            }
+        ], 
+        "type": "article", 
+        "pages": "359--386"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Fine-grained sediment lofting from meltwater-generated turbidity currents during Heinrich events", 
+        "journal": {
+            "name": "Geol"
+        }, 
+        "author": [
+            {
+                "name": "Hesse, Reinhard"
+            }, 
+            {
+                "name": "Rashid, Harunur"
+            }, 
+            {
+                "name": "Khodabakhsh, Saeed"
+            }
+        ], 
+        "year": "2004", 
+        "number": "5", 
+        "volume": "32", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/g20136.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5799deaecf58f19af23e6c44", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/g20136.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "449"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Lake level reconstruction for 12.8\u20132.3ka of the Ngangla Ring Tso closed-basin lake system, southwest Tibetan Plateau", 
+        "journal": {
+            "name": "Quaternary Research"
+        }, 
+        "author": [
+            {
+                "name": "Hudson, Adam M."
+            }, 
+            {
+                "name": "Quade, Jay"
+            }, 
+            {
+                "name": "Huth, Tyler E."
+            }, 
+            {
+                "name": "Lei, Guoliang"
+            }, 
+            {
+                "name": "Cheng, Hai"
+            }, 
+            {
+                "name": "Edwards, Lawrence R."
+            }, 
+            {
+                "name": "Olsen, John W."
+            }, 
+            {
+                "name": "Zhang, Hucai"
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0033589414001008", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43265e138239d8684ed6a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.yqres.2014.07.012"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Canadian Science Publishing", 
+        "title": "Middle Pleistocene to Holocene palynostratigraphy of Ocean Drilling Program Site 887 in the Gulf of Alaska, northeastern North Pacific", 
+        "journal": {
+            "name": "Canadian Journal of Earth Sciences"
+        }, 
+        "author": [
+            {
+                "name": "Marret, Fabienne"
+            }, 
+            {
+                "name": "Vernal, Anne de"
+            }, 
+            {
+                "name": "Pedersen, Thomas F"
+            }, 
+            {
+                "name": "McDonald, Darcy"
+            }
+        ], 
+        "year": "2001", 
+        "number": "3", 
+        "volume": "38", 
+        "link": [
+            {
+                "url": "http://www.nrcresearchpress.com/doi/abs/10.1139/e00-092", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "574778eecf58f104171973d0", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1139/e00-092"
+            }
+        ], 
+        "type": "article", 
+        "pages": "373--386"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Marginal formation of De Geer moraines and their implications to the dynamics of grounding-line recession", 
+        "journal": {
+            "name": "Journal of Quaternary Science"
+        }, 
+        "author": [
+            {
+                "name": "Lind\u00e9n, Mattias"
+            }, 
+            {
+                "name": "M\u00f6ller, Per"
+            }
+        ], 
+        "year": "2005", 
+        "number": "2", 
+        "volume": "20", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/jqs.902", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57ff9948cf58f1164ccca4c7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/jqs.902"
+            }
+        ], 
+        "type": "article", 
+        "pages": "113--133"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "New data for the Last Glacial Maximum in Great Britain and Ireland", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Bowen, D.Q"
+            }, 
+            {
+                "name": "Phillips, F.M"
+            }, 
+            {
+                "name": "McCabe, A.M"
+            }, 
+            {
+                "name": "Knutz, P.C"
+            }, 
+            {
+                "name": "Sykes, G.A"
+            }
+        ], 
+        "year": "2002", 
+        "number": "", 
+        "volume": "1-3", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0277379101001020", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55063c88e1382326932d9087", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0277-3791(01)00102-0"
+            }
+        ], 
+        "type": "article", 
+        "pages": "89--101"
+    }, 
+    {
+        "publisher": "USGS", 
+        "title": "Borehole velocity measurements and geological conditions at thirteen sites in the Los Angeles, California region", 
+        "journal": {
+            "name": "Open-File Report"
+        }, 
+        "author": [
+            {
+                "name": "Gibbs, James F."
+            }, 
+            {
+                "name": "Tinsley, J. C."
+            }, 
+            {
+                "name": "Boore, D. M."
+            }, 
+            {
+                "name": "Joyner, W. B."
+            }
+        ], 
+        "year": "2000", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "https://www.sciencebase.gov/catalog/item/4f4e4a14e4b07f02db6029ab", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55a3f1c8e13823757cc6f07f", 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Turbiditic levee deposition in response to climate changes: The Var Sedimentary Ridge (Ligurian Sea)", 
+        "journal": {
+            "name": "Marine Geology"
+        }, 
+        "author": [
+            {
+                "name": "Jorry, St\u00e9phan J."
+            }, 
+            {
+                "name": "J\u00e9gou, Isabelle"
+            }, 
+            {
+                "name": "Emmanuel, Laurent"
+            }, 
+            {
+                "name": "Silva Jacinto, Ricardo"
+            }, 
+            {
+                "name": "Savoye, Bruno"
+            }
+        ], 
+        "year": "2011", 
+        "number": "1-4", 
+        "volume": "279", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0025322710002926", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b43277e138239d8685214e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.margeo.2010.10.021"
+            }
+        ], 
+        "type": "article", 
+        "pages": "148--161"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Age assignment of a diatomaceous ooze deposited in the western Amundsen Sea Embayment after the Last Glacial Maximum", 
+        "journal": {
+            "name": "Journal of Quaternary Science"
+        }, 
+        "author": [
+            {
+                "name": "Hillenbrand, Claus-Dieter"
+            }, 
+            {
+                "name": "Smith, James A."
+            }, 
+            {
+                "name": "Kuhn, Gerhard"
+            }, 
+            {
+                "name": "Esper, Oliver"
+            }, 
+            {
+                "name": "Gersonde, Rainer"
+            }, 
+            {
+                "name": "Larter, Rob D."
+            }, 
+            {
+                "name": "Maher, Barbara"
+            }, 
+            {
+                "name": "Moreton, Steven G."
+            }, 
+            {
+                "name": "Shimmield, Tracy M."
+            }, 
+            {
+                "name": "Korte, Monika"
+            }
+        ], 
+        "year": "2010", 
+        "number": "3", 
+        "volume": "25", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/jqs.1308", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56f90c94cf58f178cb9b9486", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/jqs.1308"
+            }
+        ], 
+        "type": "article", 
+        "pages": "280--295"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Constraints on the Pleistocene chronology of sediments from the Lomonosov Ridge", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "O'Regan, Matthew"
+            }, 
+            {
+                "name": "King, John"
+            }, 
+            {
+                "name": "Backman, Jan"
+            }, 
+            {
+                "name": "Jakobsson, Martin"
+            }, 
+            {
+                "name": "P\u00e4like, Heiko"
+            }, 
+            {
+                "name": "Moran, Kathryn"
+            }, 
+            {
+                "name": "Heil, Clifford"
+            }, 
+            {
+                "name": "Sakamoto, Tatsuhiko"
+            }, 
+            {
+                "name": "Cronin, Thomas M."
+            }, 
+            {
+                "name": "Jordan, Richard W."
+            }
+        ], 
+        "year": "2008", 
+        "number": "1", 
+        "volume": "23", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1029/2007PA001551", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "568eece8cf58f11e8bd69835", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1029/2007PA001551"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Deglacial subarctic Pacific surface water hydrography and nutrient dynamics and links to North Atlantic climate variability and atmospheric CO 2", 
+        "journal": {
+            "name": "Paleoceanography"
+        }, 
+        "author": [
+            {
+                "name": "Maier, E."
+            }, 
+            {
+                "name": "M\u00e9heust, M."
+            }, 
+            {
+                "name": "Abelmann, A."
+            }, 
+            {
+                "name": "Gersonde, R."
+            }, 
+            {
+                "name": "Chapligin, B."
+            }, 
+            {
+                "name": "Ren, J."
+            }, 
+            {
+                "name": "Stein, R."
+            }, 
+            {
+                "name": "Meyer, H."
+            }, 
+            {
+                "name": "Tiedemann, R."
+            }
+        ], 
+        "year": "2015", 
+        "number": "7", 
+        "volume": "30", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/2014PA002763", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "568ebc05cf58f11663cb48c7", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/2014PA002763"
+            }
+        ], 
+        "type": "article", 
+        "pages": "949--968"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A 600-ka Arctic sea-ice record from Mendeleev Ridge based on ostracodes", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Cronin, T.M."
+            }, 
+            {
+                "name": "Polyak, L."
+            }, 
+            {
+                "name": "Reed, D."
+            }, 
+            {
+                "name": "Kandiano, E.S."
+            }, 
+            {
+                "name": "Marzen, R.E."
+            }, 
+            {
+                "name": "Council, E.A."
+            }
+        ], 
+        "year": "2013", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0277379112005380", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5506e7fae1382326932d934e", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2012.12.010"
+            }
+        ], 
+        "type": "article", 
+        "pages": "157--167"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Late Quaternary history of the Noum\u00e9a lagoon (New Caledonia, South West Pacific) as depicted by seismic stratigraphy and multibeam bathymetry A modern model of tropical rimmed shelf", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Le Roy, P."
+            }, 
+            {
+                "name": "Cabioch, G."
+            }, 
+            {
+                "name": "Monod, B."
+            }, 
+            {
+                "name": "Lagabrielle, Y."
+            }, 
+            {
+                "name": "Pelletier, B."
+            }, 
+            {
+                "name": "Flamand, B."
+            }
+        ], 
+        "year": "2008", 
+        "number": "1-2", 
+        "volume": "270", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018208004835", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324fe138239d8684b000", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2008.08.012"
+            }
+        ], 
+        "type": "article", 
+        "pages": "29--45"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A global synthesis of the marine and terrestrial evidence for glaciation during the Pliocene Epoch", 
+        "journal": {
+            "name": "Earth-Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "De Schepper, Stijn"
+            }, 
+            {
+                "name": "Gibbard, Philip L."
+            }, 
+            {
+                "name": "Salzmann, Ulrich"
+            }, 
+            {
+                "name": "Ehlers, J\u00fcrgen"
+            }
+        ], 
+        "year": "2014", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012825214000713", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5503945ce1382326932d80ca", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.earscirev.2014.04.003"
+            }
+        ], 
+        "type": "article", 
+        "pages": "83--102"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "A 2400-year record of trace metal loading in lake sediments of Lagoa Vermelha, southeastern Brazil", 
+        "journal": {
+            "name": "Journal of South American Earth Sciences"
+        }, 
+        "author": [
+            {
+                "name": "Barros de Oliveira, Sonia Maria"
+            }, 
+            {
+                "name": "Ruiz Pessenda, Luiz Carlos"
+            }, 
+            {
+                "name": "Teixeira Favaro, Deborah Ines"
+            }, 
+            {
+                "name": "Babinski, Marly"
+            }
+        ], 
+        "year": "2012", 
+        "number": "1", 
+        "volume": "33", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S089598111100109X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54efebbce138237cc9152d0b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jsames.2011.07.007"
+            }
+        ], 
+        "type": "article", 
+        "pages": "1--7"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Spatial distribution of helium isotopes in volcanic gases and thermal waters along the Vanuatu (New Hebrides) volcanic arc", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Jean-Baptiste, P."
+            }, 
+            {
+                "name": "Allard, P."
+            }, 
+            {
+                "name": "Fourr\u00e9, E."
+            }, 
+            {
+                "name": "Bani, P."
+            }, 
+            {
+                "name": "Calabrese, S."
+            }, 
+            {
+                "name": "Aiuppa, A."
+            }, 
+            {
+                "name": "Gauthier, P.J."
+            }, 
+            {
+                "name": "Parello, F."
+            }, 
+            {
+                "name": "Pelletier, B."
+            }, 
+            {
+                "name": "Garaebiti, E."
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S037702731500325X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56833fd0cf58f1beada52cb1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2015.09.026"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Rhyodacitic fissure eruption in Southern Andes (Cord\u00f3n Caulle; 40.5\u00b0S) after the 1960 (Mw:9.5) Chilean earthquake: a structural interpretation", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Lara, L.E."
+            }, 
+            {
+                "name": "Naranjo, J.A."
+            }, 
+            {
+                "name": "Moreno, H."
+            }
+        ], 
+        "year": "2004", 
+        "number": "1-2", 
+        "volume": "138", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0377027304002136", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5545c01ce138233dfd7d37ab", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jvolgeores.2004.06.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "127--138"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Surface vitrification caused by natural fires in Late Pleistocene wetlands of the Atacama Desert", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Roperch, Pierrick"
+            }, 
+            {
+                "name": "Gattacceca, J\u00e9r\u00f4me"
+            }, 
+            {
+                "name": "Valenzuela, Millarca"
+            }, 
+            {
+                "name": "Devouard, Bertrand"
+            }, 
+            {
+                "name": "Lorand, Jean-Pierre"
+            }, 
+            {
+                "name": "Arriagada, Cesar"
+            }, 
+            {
+                "name": "Rochette, Pierre"
+            }, 
+            {
+                "name": "Latorre, Claudio"
+            }, 
+            {
+                "name": "Beck, Pierre"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "469", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X17301887", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "598b07d0cf58f1a2840ba538", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.epsl.2017.04.009"
+            }
+        ], 
+        "type": "article", 
+        "pages": "15--26"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Postglacial climate changes and rise of three ecotypes of harbour porpoises, Phocoena phocoena , in western Palearctic waters", 
+        "journal": {
+            "name": "Molecular Ecology"
+        }, 
+        "author": [
+            {
+                "name": "Fontaine, Micha\u00ebl C."
+            }, 
+            {
+                "name": "Roland, Kathleen"
+            }, 
+            {
+                "name": "Calves, Isabelle"
+            }, 
+            {
+                "name": "Austerlitz, Frederic"
+            }, 
+            {
+                "name": "Palstra, Friso P."
+            }, 
+            {
+                "name": "Tolley, Krystal A."
+            }, 
+            {
+                "name": "Ryan, Sean"
+            }, 
+            {
+                "name": "Ferreira, Marisa"
+            }, 
+            {
+                "name": "Jauniaux, Thierry"
+            }, 
+            {
+                "name": "Llavona, Angela"
+            }, 
+            {
+                "name": "\u00d6zt\u00fcrk, Bayram"
+            }, 
+            {
+                "name": "\u00d6zt\u00fcrk, Ayaka A."
+            }, 
+            {
+                "name": "Ridoux, Vincent"
+            }, 
+            {
+                "name": "Rogan, Emer"
+            }, 
+            {
+                "name": "Sequeira, Marina"
+            }, 
+            {
+                "name": "Siebert, Ursula"
+            }, 
+            {
+                "name": "Vikingsson, G\u00edsli A."
+            }, 
+            {
+                "name": "Borrell, Asunci\u00f3n"
+            }, 
+            {
+                "name": "Michaux, Johan R."
+            }, 
+            {
+                "name": "Aguilar, Alex"
+            }
+        ], 
+        "year": "2014", 
+        "number": "13", 
+        "volume": "23", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/mec.12817", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "580aa886cf58f1bd1bbb3e5a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/mec.12817"
+            }
+        ], 
+        "type": "article", 
+        "pages": "3306--3321"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Shear velocity structure of the crust and upper mantle of Madagascar derived from surface wave tomography", 
+        "journal": {
+            "name": "Earth and Planetary Science Letters"
+        }, 
+        "author": [
+            {
+                "name": "Pratt, Martin J."
+            }, 
+            {
+                "name": "Wysession, Michael E."
+            }, 
+            {
+                "name": "Aleqabi, Ghassan"
+            }, 
+            {
+                "name": "Wiens, Douglas A."
+            }, 
+            {
+                "name": "Nyblade, Andrew A."
+            }, 
+            {
+                "name": "Shore, Patrick"
+            }, 
+            {
+                "name": "Rambolamanana, G\u00e9rard"
+            }, 
+            {
+                "name": "Andriampenomanana, Fenitra"
+            }, 
+            {
+                "name": "Rakotondraibe, Tsiriandrimanana"
+            }, 
+            {
+                "name": "Tucker, Robert D."
+            }, 
+            {
+                "name": "Barruol, Guilhem"
+            }, 
+            {
+                "name": "Rindraharisaona, Elisa"
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0012821X16306069", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "586bb54dcf58f182f5b54506", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.epsl.2016.10.041"
+            }
+        ], 
+        "type": "article", 
+        "pages": "405--417"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "Syntectonic Cenozoic sedimentation in the northern middle Magdalena Valley Basin of Colombia and implications for exhumation of the Northern Andes", 
+        "journal": {
+            "name": "Geol Soc America Bull"
+        }, 
+        "author": [
+            {
+                "name": "G\u00f3mez, El\u00edas"
+            }, 
+            {
+                "name": "Jordan, Teresa E."
+            }, 
+            {
+                "name": "Allmendinger, Richard W."
+            }, 
+            {
+                "name": "Hegarty, Kerry"
+            }, 
+            {
+                "name": "Kelley, Shari"
+            }
+        ], 
+        "year": "2005", 
+        "number": "5", 
+        "volume": "117", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/b25454.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "579a7a8ccf58f10504d364f9", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/b25454.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "547"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Mangrove trees growing in a very saline condition but not using seawater", 
+        "journal": {
+            "name": "Rapid Communications in Mass Spectrometry"
+        }, 
+        "author": [
+            {
+                "name": "Lambs, Luc"
+            }, 
+            {
+                "name": "Muller, Etienne"
+            }, 
+            {
+                "name": "Fromard, Francois"
+            }
+        ], 
+        "year": "2008", 
+        "number": "18", 
+        "volume": "22", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/rcm.3676", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "59b04cdfcf58f15c3d174ed6", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/rcm.3676"
+            }
+        ], 
+        "type": "article", 
+        "pages": "2835--2843"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Surface microtextures of ice-rafted quartz grains revealing glacial ice in the Cenozoic Arctic", 
+        "journal": {
+            "name": "Palaeogeography, Palaeoclimatology, Palaeoecology"
+        }, 
+        "author": [
+            {
+                "name": "Immonen, Ninna"
+            }
+        ], 
+        "year": "2013", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0031018213000667", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4324ce138239d8684a973", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.palaeo.2013.02.003"
+            }
+        ], 
+        "type": "article", 
+        "pages": "293--302"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Origins and Genetic Diversity of Pygmy Hunter-Gatherers from Western Central Africa", 
+        "journal": {
+            "name": "Current Biology"
+        }, 
+        "author": [
+            {
+                "name": "Verdu, Paul"
+            }, 
+            {
+                "name": "Austerlitz, Frederic"
+            }, 
+            {
+                "name": "Estoup, Arnaud"
+            }, 
+            {
+                "name": "Vitalis, Renaud"
+            }, 
+            {
+                "name": "Georges, Myriam"
+            }, 
+            {
+                "name": "Th\u00e9ry, Sylvain"
+            }, 
+            {
+                "name": "Froment, Alain"
+            }, 
+            {
+                "name": "Le Bomin, Sylvie"
+            }, 
+            {
+                "name": "Gessain, Antoine"
+            }, 
+            {
+                "name": "Hombert, Jean-Marie"
+            }, 
+            {
+                "name": "Van der Veen, Lolke"
+            }, 
+            {
+                "name": "Quintana-Murci, Lluis"
+            }, 
+            {
+                "name": "Bahuchet, Serge"
+            }, 
+            {
+                "name": "Heyer, Evelyne"
+            }
+        ], 
+        "year": "2009", 
+        "number": "4", 
+        "volume": "19", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0960982209005429", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57b22b07cf58f1790a68162f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.cub.2008.12.049"
+            }
+        ], 
+        "type": "article", 
+        "pages": "312--318"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Assessing the usage potential of SoilGen2 to predict clay translocation under forest and agricultural land uses", 
+        "journal": {
+            "name": "European Journal of Soil Science"
+        }, 
+        "author": [
+            {
+                "name": "Finke, P. A."
+            }, 
+            {
+                "name": "Samou\u00eblian, A."
+            }, 
+            {
+                "name": "Suarez-Bonnet, M."
+            }, 
+            {
+                "name": "Laroche, B."
+            }, 
+            {
+                "name": "Cornu, S. S."
+            }
+        ], 
+        "year": "2015", 
+        "number": "1", 
+        "volume": "66", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/ejss.12190", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57c12439cf58f142c2927e4f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/ejss.12190"
+            }
+        ], 
+        "type": "article", 
+        "pages": "194--205"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "First survey of Antarctic sub\u2013ice shelf sediments reveals mid-Holocene ice shelf retreat", 
+        "journal": {
+            "name": "Geol"
+        }, 
+        "author": [
+            {
+                "name": "Pudsey, Carol J."
+            }, 
+            {
+                "name": "Evans, Jeffrey"
+            }
+        ], 
+        "year": "2001", 
+        "number": "9", 
+        "volume": "29", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/0091-7613(2001)029<0787:fsoasi>2.0.co;2", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57957e5fcf58f13cd8e8d524", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/0091-7613(2001)029<0787:fsoasi>2.0.co;2"
+            }
+        ], 
+        "type": "article", 
+        "pages": "787"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Rate of concretion growth", 
+        "journal": {
+            "name": "Geochimica et Cosmochimica Acta"
+        }, 
+        "author": [
+            {
+                "name": "Berner, Robert A."
+            }
+        ], 
+        "year": "1968", 
+        "number": "5", 
+        "volume": "32", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/0016703768900409", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55b478cce1382314227cf58b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/0016-7037(68)90040-9"
+            }
+        ], 
+        "type": "article", 
+        "pages": "477--483"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Like I need a hole in the head: supernumerary external auditory meatus in a Carthaginian cranium", 
+        "journal": {
+            "name": "International Journal of Osteoarchaeology"
+        }, 
+        "author": [
+            {
+                "name": "Lukaszek, D. A."
+            }, 
+            {
+                "name": "Irish, J. D."
+            }, 
+            {
+                "name": "Balzeau, A."
+            }, 
+            {
+                "name": "Froment, A."
+            }
+        ], 
+        "year": "2008", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1002/oa.1030", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "56c4d1bfcf58f17493f85e6f", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1002/oa.1030"
+            }
+        ], 
+        "type": "article", 
+        "pages": "n/a--n/a"
+    }, 
+    {
+        "publisher": "Wiley", 
+        "title": "Provenance signatures and changes of the southwestern sector of the Barents Ice Sheet during the last deglaciation", 
+        "journal": {
+            "name": "Boreas"
+        }, 
+        "author": [
+            {
+                "name": "Kaparulina, Ekaterina"
+            }, 
+            {
+                "name": "Junttila, Juho"
+            }, 
+            {
+                "name": "Strand, Kari"
+            }, 
+            {
+                "name": "Lunkka, Juha P."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://doi.wiley.com/10.1111/bor.12293", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a049146cf58f1b96402a70d", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1111/bor.12293"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Lichenometry in the Cordillera Blanca, Peru: \u201cLittle Ice Age\u201d moraine chronology", 
+        "journal": {
+            "name": "Global and Planetary Change"
+        }, 
+        "author": [
+            {
+                "name": "Solomina, Olga"
+            }, 
+            {
+                "name": "Jomelli, Vincent"
+            }, 
+            {
+                "name": "Kaser, Georg"
+            }, 
+            {
+                "name": "Ames, Alcides"
+            }, 
+            {
+                "name": "Berger, Bernhard"
+            }, 
+            {
+                "name": "Pouyaud, Bernard"
+            }
+        ], 
+        "year": "2007", 
+        "number": "1", 
+        "volume": "59", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0921818106002992", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55c86a0ccf58f1a8110ba4fd", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.gloplacha.2006.11.016"
+            }
+        ], 
+        "type": "article", 
+        "pages": "225--235"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Five thousand years of tropical lake sediment DNA records from Benin", 
+        "journal": {
+            "name": "Quaternary Science Reviews"
+        }, 
+        "author": [
+            {
+                "name": "Bremond, L."
+            }, 
+            {
+                "name": "Favier, C."
+            }, 
+            {
+                "name": "Ficetola, G.F."
+            }, 
+            {
+                "name": "Tossou, M.G."
+            }, 
+            {
+                "name": "Akou\u00e9gninou, A."
+            }, 
+            {
+                "name": "Gielly, L."
+            }, 
+            {
+                "name": "Giguet-Covex, C."
+            }, 
+            {
+                "name": "Oslisly, R."
+            }, 
+            {
+                "name": "Salzmann, U."
+            }
+        ], 
+        "year": "2017", 
+        "number": "", 
+        "volume": "170", 
+        "link": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S0277379117302573", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "5a2a93fbcf58f173d436e5bd", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.quascirev.2017.06.025"
+            }
+        ], 
+        "type": "article", 
+        "pages": "203--211"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Use of plots to define pollen\u2013vegetation relationships in densely forested ecosystems of Tropical Africa", 
+        "journal": {
+            "name": "Review of Palaeobotany and Palynology"
+        }, 
+        "author": [
+            {
+                "name": "Elenga, H."
+            }, 
+            {
+                "name": "de Namur, C."
+            }, 
+            {
+                "name": "Vincens, A."
+            }, 
+            {
+                "name": "Roux, M."
+            }, 
+            {
+                "name": "Schwartz, D."
+            }
+        ], 
+        "year": "2000", 
+        "number": "1-3", 
+        "volume": "112", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0034666700000361", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54b4326be138239d8684fff1", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0034-6667(00)00036-1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "79--96"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Messinian evaporite deposition during sea level rise in the Gulf of Lions (Western Mediterranean)", 
+        "journal": {
+            "name": "Marine and Petroleum Geology"
+        }, 
+        "author": [
+            {
+                "name": "Bache, Fran\u00e7ois"
+            }, 
+            {
+                "name": "Gargani, Julien"
+            }, 
+            {
+                "name": "Suc, Jean-Pierre"
+            }, 
+            {
+                "name": "Gorini, Christian"
+            }, 
+            {
+                "name": "Rabineau, Marina"
+            }, 
+            {
+                "name": "Popescu, Speranta-Maria"
+            }, 
+            {
+                "name": "Leroux, Estelle"
+            }, 
+            {
+                "name": "Couto, Damien Do"
+            }, 
+            {
+                "name": "Jouannic, Gwena\u00ebl"
+            }, 
+            {
+                "name": "Rubino, Jean-Loup"
+            }, 
+            {
+                "name": "Olivet, Jean-Louis"
+            }, 
+            {
+                "name": "Clauzon, Georges"
+            }, 
+            {
+                "name": "Dos Reis, Antonio Tadeu"
+            }, 
+            {
+                "name": "Aslanian, Daniel"
+            }
+        ], 
+        "year": "2015", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0264817214003900", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "54be38dde138233c8bc4fa4b", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.marpetgeo.2014.12.013"
+            }
+        ], 
+        "type": "article", 
+        "pages": ""
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Relief evolution of the Continental Rift of Southeast Brazil revealed by in situ-produced 10Be concentrations in river-borne sediments", 
+        "journal": {
+            "name": "Journal of South American Earth Sciences"
+        }, 
+        "author": [
+            {
+                "name": "Salgado, Andr\u00e9 Augusto Rodrigues"
+            }, 
+            {
+                "name": "Rezende, Eric de Andrade"
+            }, 
+            {
+                "name": "Bourl\u00e8s, Didier"
+            }, 
+            {
+                "name": "Braucher, R\u00e9gis"
+            }, 
+            {
+                "name": "da Silva, Juliana Rodrigues"
+            }, 
+            {
+                "name": "Garcia, Ricardo Alexandrino"
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S089598111630013X", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "575d1301cf58f19c00898579", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.jsames.2016.02.002"
+            }
+        ], 
+        "type": "article", 
+        "pages": "89--99"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Tephrochronology of the Kamchatka\u2013Kurile and Aleutian arcs: evidence for volcanic episodicity", 
+        "journal": {
+            "name": "Journal of Volcanology and Geothermal Research"
+        }, 
+        "author": [
+            {
+                "name": "Prueher, L.M."
+            }, 
+            {
+                "name": "Rea, D.K."
+            }
+        ], 
+        "year": "2001", 
+        "number": "1-2", 
+        "volume": "106", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0377027300002663", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "554657cee138233dfd7d3a2d", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S0377-0273(00)00266-3"
+            }
+        ], 
+        "type": "article", 
+        "pages": "67--84"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Miocene Antarctic ice dynamics in the Ross Embayment (Western Ross Sea, Antarctica): Insights from provenance analyses of sedimentary clasts in the AND-2A drill core", 
+        "journal": {
+            "name": "Global and Planetary Change"
+        }, 
+        "author": [
+            {
+                "name": "Cornamusini, Gianluca"
+            }, 
+            {
+                "name": "Talarico, Franco M."
+            }
+        ], 
+        "year": "2016", 
+        "number": "", 
+        "volume": "", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S0921818116303897", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "58b809b1cf58f19c38d4368a", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/j.gloplacha.2016.09.001"
+            }
+        ], 
+        "type": "article", 
+        "pages": "38--52"
+    }, 
+    {
+        "publisher": "Elsevier", 
+        "title": "Dynamique de l'\u00e9rosion dans le bassin versant de l'Irrawaddy au cours des deux derniers cycles climatiques (280\u20130 ka)", 
+        "journal": {
+            "name": "Comptes Rendus de l'Acad\u00e9mie des Sciences - Series IIA - Earth and Planetary Science"
+        }, 
+        "author": [
+            {
+                "name": "Colin, Christophe"
+            }, 
+            {
+                "name": "Bertaux, Jacques"
+            }, 
+            {
+                "name": "Turpin, Laurent"
+            }, 
+            {
+                "name": "Kissel, Catherine"
+            }
+        ], 
+        "year": "2001", 
+        "number": "8", 
+        "volume": "332", 
+        "link": [
+            {
+                "url": "http://www.sciencedirect.com/science/article/pii/S1251805001015658", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "55a01d62e138234d98ada3c9", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1016/S1251-8050(01)01565-8"
+            }
+        ], 
+        "type": "article", 
+        "pages": "483--489"
+    }, 
+    {
+        "publisher": "GSA", 
+        "title": "North Atlantic versus Southern Ocean contributions to a deglacial surge in deep ocean ventilation", 
+        "journal": {
+            "name": "Geology"
+        }, 
+        "author": [
+            {
+                "name": "Skinner, L. C."
+            }, 
+            {
+                "name": "Scrivner, A. E."
+            }, 
+            {
+                "name": "Vance, D."
+            }, 
+            {
+                "name": "Barker, S."
+            }, 
+            {
+                "name": "Fallon, S."
+            }, 
+            {
+                "name": "Waelbroeck, C."
+            }
+        ], 
+        "year": "2013", 
+        "number": "6", 
+        "volume": "41", 
+        "link": [
+            {
+                "url": "http://dx.doi.org/10.1130/g34133.1", 
+                "type": "publisher"
+            }
+        ], 
+        "_gddid": "57a1bbf8cf58f116b65598e4", 
+        "identifier": [
+            {
+                "type": "doi", 
+                "id": "10.1130/g34133.1"
+            }
+        ], 
+        "type": "article", 
+        "pages": "667--670"
+    }
+]
