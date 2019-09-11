@@ -212,7 +212,7 @@ coord_pairs <- sapply(degmin, function(x)length(x) %% 2 == 0 & length(x) > 0) |
 things <- nlp %>% 
   filter(coord_pairs) %>% 
   inner_join(publications, by = "_gddid") %>% 
-  select(`_gddid`, word, year, title) %>% 
+  select(`_gddid`, word, year, title, sentence) %>% 
   mutate(word = gsub(',', ' ', word)) %>% 
   mutate(word = str_replace_all(word, '-LRB-', '(')) %>% 
   mutate(word = str_replace_all(word, '-RRB-', ')')) %>% 
@@ -248,6 +248,7 @@ convert_dec <- function(x, i) {
   publ <- match(nlp$`_gddid`[i], publications$`_gddid`)
   
   point_pairs <- data.frame(sentence = nlp$word[i],
+                            sentence_num = nlp$sentence[i],
                             lat = domain[str_detect(x, 'N') | str_detect(x, 'S')],
                             lng = domain[str_detect(x, 'E') | str_detect(x, 'W')],
                             publications[publ,],
@@ -276,6 +277,7 @@ convert_dm <- function(x, i) {
   publ <- match(nlp$`_gddid`[i], publications$`_gddid`)
   
   point_pairs <- data.frame(sentence = nlp$word[i],
+                            sentence_num = nlp$sentence[i],
                             lat = domain[x[,5] %in% c('N', 'S')],
                             lng = domain[x[,5] %in% c('E', 'W')],
                             publications[publ,],
@@ -326,6 +328,14 @@ leaflet(coordinates_df) %>%
                                   '<b>Sentence:</b><br>',
                                   '<small>',gsub(',', ' ', coordinates_df$sentence),
                                   '</small>'))
+
+output_df <- data.frame(
+  sentence_num = coordinates_df$sentence_num,
+  sentence = coordinates_df$sentence,
+  lat = coordinates_df$lat,
+  lon = coordinates_df$lng
+)
+
 
 ```
 
